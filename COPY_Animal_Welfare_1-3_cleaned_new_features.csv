@@ -1,0 +1,993 @@
+AnimalID,DateTime_Intake,FoundLocation,IntakeType,IntakeCondition,AnimalType_Intake,SexuponIntake,AgeuponIntake,Breed_Intake,Color_Intake,DateTime_Outcome,DateofBirth,SexuponOutcome,AgeuponOutcome,binary_outcome,percent,Health_condition,SexOutcome,WildMammalsOrNot,DaysInShelter
+A801051,7,Austin,Stray,Normal,Cat,Intact Female,43,Domestic Cat Breed,Pattern,10,6,Spayed Female,121,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A691399,11,Austin,Stray,Normal,Dog,Intact Female,730,Terrier Dog Breed,Pattern,11,11,Spayed Female,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A795934,5,Austin,Stray,Normal,Cat,Intact Female,30,Domestic Cat Breed,Bi color,11,4,Intact Female,192,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A706306,6,Austin,Stray,Injured,Cat,Intact Female,83,Domestic Cat Breed,Pattern,7,4,Intact Female,88,0.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A711401,9,Austin,Owner Surrender,Nursing,Dog,Intact Female,62,Toy Breed,Bi color,9,7,Spayed Female,64,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A806604,10,Creedmoor,Stray,Normal,Cat,Intact Female,273,Domestic Cat Breed,Pattern,10,1,Intact Female,277,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A745484,3,Austin,Stray,Normal,Cat,Unknown,6,Domestic Cat Breed,Pattern,3,3,Unknown,6,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A703942,5,Austin,Stray,Normal,Dog,Intact Female,365,Hound Dong Breed,Pattern,6,5,Spayed Female,369,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A710369,8,Austin,Stray,Normal,Dog,Intact Female,61,Working Dog Breed,Red series,8,6,Spayed Female,62,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A720719,2,Travis,Public Assist,Normal,Bird,Intact Male,365,Chicken,Bi color,3,2,Intact Male,388,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A709277,8,Austin,Stray,Normal,Cat,Intact Male,92,Domestic Cat Breed,Pattern,8,5,Intact Male,102,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A763671,12,Austin,Owner Surrender,Normal,Dog,Neutered Male,1522,Retriever Dog Breed,Brown series,12,10,Neutered Male,1530,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A766636,2,Del Valle,Owner Surrender,Normal,Cat,Intact Female,92,Domestic Cat Breed,Pattern,2,11,Spayed Female,96,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A733116,8,Austin,Stray,Normal,Cat,Intact Male,92,Domestic Cat Breed,Pattern,11,5,Neutered Male,182,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A790914,3,Austin,Owner Surrender,Normal,Dog,Intact Female,1461,Working Dog Breed,Pattern,4,3,Spayed Female,1501,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A725855,5,Manor,Stray,Normal,Dog,Intact Female,731,Working Dog Breed,Pattern,6,5,Spayed Female,783,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A476706,1,Austin,Owner Surrender,Normal,Dog,Neutered Male,3056,Working Dog Breed,Bi color,1,8,Neutered Male,3062,1.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A776777,7,Travis,Stray,Nursing,Dog,Unknown,1,Working Dog Breed,Black,7,7,Unknown,12,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A790207,5,Austin,Owner Surrender,Normal,Cat,Neutered Male,1882,Domestic Cat Breed,Black,5,3,Neutered Male,1885,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A698664,3,Austin,Owner Surrender,Normal,Dog,Intact Male,730,Toy Breed,Bi color,3,3,Neutered Male,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A692239,11,Austin,Stray,Normal,Cat,Spayed Female,1826,Domestic Cat Breed,Pattern,11,11,Spayed Female,1826,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A713916,10,Austin,Stray,Injured,Dog,Intact Female,1461,Toy Breed,Bi color,10,10,Spayed Female,1471,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A717912,12,Travis,Stray,Normal,Dog,Intact Male,61,Retriever Dog Breed,Brown series,12,10,Neutered Male,66,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A795202,5,Austin,Stray,Normal,Dog,Intact Male,242,Working Dog Breed,Bi color,5,9,Neutered Male,250,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685986,8,Austin,Stray,Normal,Dog,Intact Male,3287,Terrier Dog Breed,White,8,8,Intact Male,3291,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A692124,11,Austin,Stray,Normal,Dog,Intact Male,365,Working Dog Breed,Bi color,11,11,Neutered Male,379,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A780786,9,Austin,Owner Surrender,Normal,Dog,Neutered Male,2363,Terrier Dog Breed,Pattern,9,4,Neutered Male,2365,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A763564,12,Austin,Owner Surrender,Normal,Dog,Intact Female,61,Toy Breed,Bi color,12,10,Spayed Female,63,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A772538,5,Austin,Stray,Normal,Cat,Intact Male,39,Domestic Cat Breed,Pattern,6,4,Neutered Male,73,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A740378,12,Austin,Stray,Normal,Dog,Intact Female,168,Retriever Dog Breed,Black,12,7,Spayed Female,172,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A671024,1,Austin,Stray,Sick,Cat,Intact Female,365,Domestic Cat Breed,Bi color,1,1,Intact Female,365,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A801521,8,Austin,Stray,Nursing,Cat,Intact Female,6,Domestic Cat Breed,Bi color,8,7,Intact Female,6,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A681826,6,Austin,Owner Surrender,Injured,Dog,Spayed Female,730,Herding Dog Breed,Bi color,9,6,Spayed Female,813,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A732732,8,Austin,Public Assist,Sick,Cat,Intact Female,367,Shorthair Cat Breed,Pattern,8,8,Intact Female,368,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A737416,10,Austin,Stray,Normal,Dog,Intact Male,76,Working Dog Breed,Bi color,10,8,Intact Male,76,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A677019,4,Austin,Stray,Normal,Dog,Neutered Male,364,Herding Dog Breed,Bi color,4,4,Neutered Male,365,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A808876,11,Austin,Stray,Normal,Dog,Intact Female,153,Retriever Dog Breed,Bi color,11,6,Spayed Female,157,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A718025,12,Austin,Stray,Normal,Cat,Intact Male,76,Domestic Cat Breed,Blue series,1,10,Neutered Male,90,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A706844,7,Austin,Stray,Nursing,Dog,Intact Male,0,Toy Breed,Pattern,8,7,Neutered Male,56,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A780273,9,Austin,Stray,Normal,Cat,Intact Female,13,Domestic Cat Breed,Pattern,12,8,Spayed Female,118,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A789848,2,Austin,Owner Surrender,Normal,Dog,Spayed Female,306,Working Dog Breed,Bi color,3,4,Spayed Female,312,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A704201,6,Austin,Stray,Sick,Cat,Intact Female,2922,Domestic Cat Breed,Pattern,6,6,Intact Female,2922,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A716820,11,Manor,Stray,Normal,Dog,Intact Female,76,Retriever Dog Breed,Red series,12,9,Spayed Female,82,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A801260,8,Austin,Stray,Normal,Cat,Intact Female,57,Longhair Cat Breed,Pattern,8,6,Spayed Female,62,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775263,6,Austin,Stray,Normal,Cat,Intact Female,31,Domestic Cat Breed,Pattern,6,5,Intact Female,33,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A688690,9,Austin,Stray,Sick,Dog,Intact Female,2557,Hound Dong Breed,Bi color,9,9,Spayed Female,2561,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A758484,9,Austin,Owner Surrender,Normal,Dog,Neutered Male,1096,Herding Dog Breed,Bi color,10,9,Neutered Male,1493,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702199,5,Austin,Stray,Normal,Dog,Intact Male,72,Working Dog Breed,Pattern,5,2,Neutered Male,76,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A794956,5,Austin,Stray,Nursing,Cat,Intact Female,365,Domestic Cat Breed,Blue series,5,5,Intact Female,374,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A735480,9,Austin,Stray,Normal,Dog,Intact Female,731,Retriever Dog Breed,Black,10,9,Intact Female,747,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A718663,1,Austin,Public Assist,Normal,Other,Unknown,365,Reptilia,Brown series,1,1,Unknown,373,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A739417,12,Austin,Stray,Normal,Dog,Intact Male,45,Hound Dong Breed,Brown series,12,10,Neutered Male,63,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A598004,11,Austin,Stray,Normal,Dog,Spayed Female,2130,Toy Breed,Bi color,11,1,Spayed Female,2131,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A806750,10,Austin,Stray,Normal,Dog,Intact Female,180,Working Dog Breed,Bi color,10,4,Spayed Female,187,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A719428,3,Austin,Public Assist,Normal,Dog,Intact Female,1141,Toy Breed,Bi color,3,1,Intact Female,1150,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A702877,5,Austin,Stray,Injured,Dog,Intact Female,61,Retriever Dog Breed,Bi color,5,3,Intact Female,72,0.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A675990,4,Austin,Stray,Normal,Dog,Spayed Female,2557,Working Dog Breed,Pattern,4,4,Spayed Female,2558,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A667383,11,Austin,Stray,Normal,Dog,Intact Male,76,Terrier Dog Breed,Bi color,11,9,Neutered Male,82,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A621360,9,Manor,Owner Surrender,Normal,Dog,Neutered Male,3477,Terrier Dog Breed,Pattern,9,3,Neutered Male,3488,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681241,6,Austin,Stray,Normal,Cat,Intact Male,53,Shorthair Cat Breed,Pattern,6,4,Neutered Male,69,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A706024,6,Lakeway,Stray,Normal,Cat,Intact Male,50,Domestic Cat Breed,Pattern,7,5,Neutered Male,61,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A797573,6,Pflugerville,Owner Surrender,Normal,Dog,Neutered Male,377,Toy Breed,Pattern,7,6,Neutered Male,391,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A703777,5,Austin,Stray,Normal,Cat,Intact Female,37,Domestic Cat Breed,Black,3,4,Spayed Female,325,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A713174,10,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Black,10,10,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A669792,12,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Pattern,12,12,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A752502,6,Austin,Stray,Normal,Cat,Intact Female,68,Domestic Cat Breed,Bi color,7,4,Spayed Female,81,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775420,6,Austin,Stray,Normal,Cat,Intact Male,1096,Domestic Cat Breed,Pattern,7,6,Intact Male,1099,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A684586,7,Austin,Stray,Normal,Dog,Intact Male,61,Working Dog Breed,Bi color,7,5,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A705001,6,Travis,Stray,Normal,Dog,Intact Male,1826,Terrier Dog Breed,White,6,6,Intact Male,1842,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A794080,5,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Pattern,5,4,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A805360,9,Austin,Stray,Normal,Cat,Intact Male,730,Domestic Cat Breed,Pattern,9,9,Intact Male,734,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A695243,1,Austin,Stray,Normal,Dog,Intact Male,56,Retriever Dog Breed,Bi color,1,11,Neutered Male,62,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A793358,4,Austin,Stray,Normal,Cat,Intact Female,39,Domestic Cat Breed,Pattern,4,3,Intact Female,40,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A718074,12,Travis,Stray,Normal,Dog,Intact Female,548,Retriever Dog Breed,Bi color,12,6,Spayed Female,554,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A807113,10,Austin,Wildlife,Sick,Other,Unknown,730,Bat,Bi color,10,10,Unknown,732,1.0,1.1363636363636365,Unhealthy,Unknown,Wild Mammals,2-3 days
+A765993,1,Austin,Stray,Normal,Dog,Intact Male,365,Retriever Dog Breed,Gold series,2,1,Neutered Male,370,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A803415,8,Austin,Stray,Normal,Dog,Intact Female,365,Toy Breed,Bi color,9,8,Spayed Female,372,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A703079,5,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Blue series,5,4,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A782374,10,Austin,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Pattern,12,9,Neutered Male,98,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A796584,6,Travis,Stray,Normal,Dog,Intact Female,730,Terrier Dog Breed,Bi color,6,6,Intact Female,732,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A777614,7,Austin,Owner Surrender,Normal,Cat,Intact Male,122,Domestic Cat Breed,Pattern,8,3,Neutered Male,126,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A712143,9,Austin,Public Assist,Normal,Dog,Spayed Female,5112,Toy Breed,Bi color,9,9,Spayed Female,5121,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A734636,9,Austin,Stray,Normal,Dog,Intact Male,731,Hound Dong Breed,Bi color,10,9,Neutered Male,752,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A807754,10,Austin,Stray,Normal,Dog,Intact Female,152,Terrier Dog Breed,Bi color,11,5,Spayed Female,156,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A761076,10,Austin,Stray,Normal,Cat,Intact Female,61,Domestic Cat Breed,Pattern,11,8,Spayed Female,68,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A684628,9,Austin,Owner Surrender,Normal,Dog,Neutered Male,411,Hound Dong Breed,Pattern,9,7,Neutered Male,414,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A761373,11,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Pattern,11,9,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A717421,12,Austin,Owner Surrender,Normal,Dog,Spayed Female,365,Terrier Dog Breed,Bi color,12,12,Spayed Female,366,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A680955,6,Austin,Owner Surrender,Normal,Dog,Spayed Female,736,Retriever Dog Breed,Brown series,7,6,Spayed Female,759,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A747648,4,Austin,Stray,Normal,Dog,Intact Female,74,Terrier Dog Breed,Bi color,4,2,Intact Female,74,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A795684,9,Austin,Owner Surrender,Normal,Dog,Spayed Female,2879,Terrier Dog Breed,White,12,11,Spayed Female,2961,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A666090,10,Austin,Stray,Normal,Cat,Intact Female,1096,Domestic Cat Breed,Pattern,12,10,Spayed Female,1136,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A765734,1,Austin,Owner Surrender,Normal,Dog,Intact Male,457,Toy Breed,Bi color,1,10,Neutered Male,461,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681910,6,Austin,Stray,Normal,Dog,Intact Male,1096,Working Dog Breed,Bi color,6,6,Intact Male,1101,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A722894,3,Austin,Wildlife,Normal,Other,Unknown,182,Bat,Brown series,3,9,Unknown,182,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A801516,8,Austin,Stray,Nursing,Cat,Unknown,9,Domestic Cat Breed,Bi color,8,7,Unknown,9,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A773502,6,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Pattern,6,5,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A745960,3,Austin,Stray,Injured,Cat,Neutered Male,365,Domestic Cat Breed,Pattern,3,3,Neutered Male,365,0.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A687061,9,Austin,Owner Surrender,Normal,Dog,Spayed Female,108,Terrier Dog Breed,Bi color,9,5,Spayed Female,111,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A683580,7,Austin,Stray,Normal,Dog,Neutered Male,730,Toy Breed,Bi color,7,7,Neutered Male,730,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A794635,5,Austin,Stray,Normal,Dog,Neutered Male,730,Working Dog Breed,Black,5,5,Neutered Male,742,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A751867,6,Travis,Stray,Injured,Dog,Intact Female,1978,Herding Dog Breed,Pattern,6,1,Intact Female,1982,1.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A734588,9,Austin,Stray,Normal,Dog,Intact Male,153,Hound Dong Breed,Bi color,9,4,Neutered Male,157,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A680910,6,Austin,Owner Surrender,Normal,Cat,Spayed Female,1461,Domestic Cat Breed,Pattern,10,6,Spayed Female,1578,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A684000,7,Austin,Stray,Normal,Cat,Unknown,9,Shorthair Cat Breed,Pattern,7,7,Unknown,9,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A694743,1,Austin,Owner Surrender,Normal,Cat,Neutered Male,5113,Domestic Cat Breed,Pattern,1,1,Neutered Male,5136,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A695674,1,Austin,Owner Surrender,Normal,Dog,Neutered Male,1461,Working Dog Breed,Bi color,1,1,Neutered Male,1464,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A671256,1,Austin,Stray,Normal,Dog,Intact Male,731,Toy Breed,Bi color,2,1,Intact Male,754,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A738047,11,Travis,Stray,Normal,Cat,Unknown,7,Domestic Cat Breed,Black,11,11,Unknown,7,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A711765,9,Austin,Stray,Normal,Dog,Spayed Female,5477,Working Dog Breed,Bi color,9,9,Spayed Female,5478,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A748159,4,Austin,Stray,Normal,Cat,Intact Male,31,Domestic Cat Breed,Bi color,7,3,Neutered Male,103,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A809782,12,Austin,Owner Surrender,Normal,Dog,Neutered Male,518,Working Dog Breed,Gold series,12,7,Neutered Male,518,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A785408,12,Pflugerville,Stray,Injured,Cat,Intact Female,91,Domestic Cat Breed,Pattern,12,9,Spayed Female,106,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A733705,9,Austin,Stray,Normal,Dog,Spayed Female,743,Terrier Dog Breed,Pattern,9,8,Spayed Female,744,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A669579,12,Austin,Stray,Normal,Cat,Spayed Female,731,Domestic Cat Breed,Bi color,12,12,Spayed Female,738,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A744353,2,Austin,Stray,Normal,Dog,Intact Male,123,Toy Breed,Bi color,3,10,Neutered Male,129,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A757693,9,Outside Jurisdiction,Public Assist,Normal,Dog,Neutered Male,1096,Herding Dog Breed,Bi color,9,9,Neutered Male,1109,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A683339,7,Austin,Stray,Normal,Dog,Intact Female,1461,Toy Breed,Bi color,7,7,Spayed Female,1466,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778044,8,Austin,Public Assist,Normal,Dog,Intact Female,1097,Working Dog Breed,Bi color,8,8,Intact Female,1102,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A691880,11,Austin,Stray,Normal,Dog,Intact Male,53,Terrier Dog Breed,Pattern,11,9,Intact Male,54,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A693189,12,Austin,Stray,Normal,Cat,Intact Male,106,Domestic Cat Breed,Pattern,12,8,Neutered Male,110,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A690688,10,Austin,Stray,Sick,Dog,Intact Male,92,Toy Breed,Bi color,10,7,Intact Male,92,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A684237,7,Travis,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Pattern,8,6,Intact Male,48,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A804726,10,Travis,Owner Surrender,Normal,Dog,Neutered Male,766,Retriever Dog Breed,Black,11,9,Neutered Male,781,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A710238,8,Austin,Stray,Normal,Cat,Unknown,22,Domestic Cat Breed,Pattern,8,7,Unknown,22,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A686843,8,Austin,Stray,Normal,Dog,Intact Female,546,Terrier Dog Breed,Bi color,11,2,Spayed Female,627,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A686227,8,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Bi color,9,8,Unknown,395,1.0,0.15552099533437014,Healthy,Unknown,Wild Mammals,more than 3 days
+A676294,4,Austin,Owner Surrender,Normal,Dog,Intact Female,136,Toy Breed,Brown series,4,11,Intact Female,137,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A665125,10,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Pattern,10,9,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A671534,3,Austin,Owner Surrender,Normal,Cat,Intact Female,421,Shorthair Cat Breed,Pattern,3,1,Spayed Female,429,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A689898,10,Austin,Stray,Normal,Cat,Unknown,365,Domestic Cat Breed,Pattern,10,10,Unknown,366,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A664767,10,Austin,Stray,Normal,Dog,Intact Female,122,Hound Dong Breed,Pattern,11,6,Spayed Female,150,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A777804,8,Austin,Stray,Normal,Dog,Spayed Female,3646,Toy Breed,Bi color,8,8,Spayed Female,3674,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775646,7,Del Valle,Stray,Nursing,Dog,Intact Male,1,Terrier Dog Breed,Brown series,9,7,Neutered Male,71,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A723542,4,Austin,Stray,Normal,Dog,Intact Male,305,Terrier Dog Breed,Bi color,4,6,Neutered Male,328,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A664494,10,Austin,Stray,Normal,Cat,Spayed Female,2557,Domestic Cat Breed,Pattern,10,10,Spayed Female,2565,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699845,4,Austin,Wildlife,Sick,Other,Unknown,730,Bat,Brown series,4,4,Unknown,731,1.0,0.38314176245210724,Unhealthy,Unknown,Wild Mammals,0-1 days
+A694987,1,Austin,Public Assist,Normal,Cat,Intact Female,365,Domestic Cat Breed,Black,1,1,Spayed Female,376,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A688556,9,Austin,Owner Surrender,Normal,Cat,Intact Male,70,Domestic Cat Breed,Pattern,9,7,Neutered Male,78,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A704484,6,Leander,Stray,Normal,Cat,Intact Female,19,Domestic Cat Breed,Black,6,5,Intact Female,20,1.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A780287,9,Austin,Stray,Normal,Dog,Intact Male,2556,Toy Breed,Gold series,9,9,Intact Male,2557,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A761959,11,Austin,Stray,Normal,Dog,Intact Female,1461,Terrier Dog Breed,Bi color,12,11,Spayed Female,1501,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A636828,10,Austin,Euthanasia Request,Normal,Dog,Intact Male,761,Terrier Dog Breed,Bi color,10,9,Intact Male,761,1.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A667079,11,Austin,Stray,Normal,Dog,Intact Male,2557,Toy Breed,Bi color,11,11,Neutered Male,2566,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A689136,9,Austin,Stray,Normal,Cat,Intact Male,62,Domestic Cat Breed,Pattern,10,7,Neutered Male,75,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A745009,3,Austin,Stray,Aged,Dog,Intact Male,5283,Terrier Dog Breed,Bi color,3,9,Intact Male,5285,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A793837,4,Austin,Stray,Pregnant,Cat,Intact Female,1095,Domestic Cat Breed,White,5,4,Intact Female,1096,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A755374,8,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Black,8,8,Intact Female,376,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A710252,8,Austin,Stray,Normal,Dog,Intact Female,181,Working Dog Breed,Blue series,8,2,Spayed Female,185,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702270,5,Austin,Stray,Nursing,Cat,Unknown,10,Domestic Cat Breed,Pattern,5,5,Unknown,10,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A779282,8,Austin,Stray,Normal,Cat,Intact Female,92,Domestic Cat Breed,Black,9,5,Intact Female,96,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A706447,6,Austin,Stray,Normal,Cat,Intact Female,53,Domestic Cat Breed,Pattern,7,5,Intact Female,84,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A749520,5,Austin,Stray,Normal,Cat,Intact Female,1,Domestic Cat Breed,Pattern,6,5,Intact Female,29,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A702733,5,Austin,Stray,Normal,Cat,Unknown,730,Domestic Cat Breed,Pattern,5,5,Unknown,731,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A708435,7,Austin,Stray,Normal,Cat,Intact Female,2,Shorthair Cat Breed,Pattern,9,7,Intact Female,58,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A783066,10,Austin,Stray,Normal,Cat,Intact Male,365,Domestic Cat Breed,Bi color,10,10,Intact Male,369,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A799969,7,Austin,Stray,Normal,Dog,Neutered Male,4383,Toy Breed,Brown series,7,7,Neutered Male,4383,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A689190,9,Austin,Stray,Normal,Dog,Intact Male,365,Hound Dong Breed,Pattern,10,9,Neutered Male,386,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A757584,9,Austin,Owner Surrender,Normal,Dog,Intact Female,184,Retriever Dog Breed,Bi color,9,3,Spayed Female,189,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769847,4,Austin,Owner Surrender,Normal,Dog,Intact Female,2282,Toy Breed,Bi color,4,1,Spayed Female,2292,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A715476,11,Austin,Stray,Aged,Dog,Spayed Female,5844,Terrier Dog Breed,Bi color,11,11,Spayed Female,5844,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A735774,9,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Pattern,9,9,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A715711,11,Austin,Owner Surrender,Normal,Cat,Intact Male,184,Domestic Cat Breed,Pattern,11,5,Neutered Male,191,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A770127,4,Austin,Stray,Normal,Cat,Intact Female,59,Domestic Cat Breed,Pattern,4,2,Spayed Female,64,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A787221,1,Austin,Stray,Normal,Dog,Intact Female,1096,Retriever Dog Breed,Bi color,1,1,Intact Female,1097,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A781850,10,Del Valle,Owner Surrender,Normal,Cat,Spayed Female,1461,Domestic Cat Breed,Pattern,12,10,Spayed Female,1519,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A791061,3,Austin,Stray,Normal,Dog,Intact Male,1461,Working Dog Breed,Bi color,3,3,Neutered Male,1469,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A733826,8,Travis,Owner Surrender,Normal,Other,Intact Male,244,Rabbit,Bi color,9,12,Intact Male,251,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A791411,3,Manor,Stray,Normal,Dog,Intact Male,243,Working Dog Breed,Pattern,3,7,Neutered Male,248,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A733400,8,Austin,Stray,Normal,Cat,Intact Male,107,Domestic Cat Breed,Pattern,8,5,Neutered Male,108,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A722984,3,Austin,Stray,Normal,Dog,Intact Male,60,Working Dog Breed,Bi color,3,1,Neutered Male,64,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A767446,3,Leander,Owner Surrender,Normal,Cat,Intact Female,35,Domestic Cat Breed,Pattern,3,1,Spayed Female,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A808870,11,Austin,Stray,Aged,Dog,Intact Female,2922,Working Dog Breed,Bi color,12,11,Intact Female,2938,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A675427,3,Austin,Stray,Normal,Dog,Intact Male,59,Toy Breed,Bi color,4,1,Neutered Male,66,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A720921,2,Austin,Stray,Sick,Cat,Intact Male,1826,Domestic Cat Breed,Pattern,2,2,Intact Male,1829,0.0,1.1363636363636365,Unhealthy,Intact,Not Wild Mammals,2-3 days
+A774859,6,Austin,Stray,Normal,Dog,Intact Female,31,Herding Dog Breed,Bi color,7,5,Intact Female,50,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A674417,3,Austin,Stray,Normal,Dog,Intact Male,304,Toy Breed,Pattern,3,5,Neutered Male,309,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A768782,3,Austin,Public Assist,Normal,Cat,Neutered Male,2927,Domestic Cat Breed,Bi color,4,3,Neutered Male,2929,1.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A692137,11,Austin,Stray,Normal,Dog,Intact Male,549,Terrier Dog Breed,Bi color,11,5,Intact Male,550,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A753750,7,Austin,Owner Surrender,Normal,Dog,Intact Male,20,Toy Breed,Brown series,7,6,Intact Male,22,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A771512,5,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Pattern,5,5,Intact Female,368,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A721287,9,Austin,Stray,Normal,Dog,Neutered Male,278,Retriever Dog Breed,Bi color,10,12,Neutered Male,285,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A679108,5,Austin,Stray,Normal,Dog,Intact Male,238,Hound Dong Breed,Bi color,5,9,Neutered Male,243,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A796772,6,Austin,Stray,Normal,Cat,Intact Male,26,Domestic Cat Breed,Pattern,7,5,Intact Male,65,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A788206,1,Austin,Stray,Normal,Dog,Intact Male,365,Retriever Dog Breed,Bi color,2,1,Intact Male,374,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A641781,7,Austin,Stray,Normal,Dog,Spayed Female,1156,Retriever Dog Breed,Bi color,8,5,Spayed Female,1193,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A747123,4,Austin,Stray,Normal,Cat,Intact Female,38,Domestic Cat Breed,Bi color,4,3,Intact Female,39,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A725603,4,Austin,Owner Surrender,Normal,Dog,Neutered Male,1014,Terrier Dog Breed,Bi color,5,7,Neutered Male,1016,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A723337,3,Austin,Stray,Normal,Dog,Intact Female,731,Toy Breed,Bi color,4,3,Spayed Female,736,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A751028,6,Austin,Stray,Normal,Cat,Intact Male,38,Domestic Cat Breed,Blue series,7,4,Neutered Male,66,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A764836,1,Austin,Stray,Injured,Cat,Intact Male,731,Domestic Cat Breed,Pattern,1,1,Intact Male,731,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A794001,5,Austin,Stray,Normal,Cat,Intact Female,29,Domestic Cat Breed,Blue series,6,4,Spayed Female,81,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A716675,11,Austin,Stray,Normal,Dog,Intact Female,1095,Toy Breed,Brown series,11,11,Spayed Female,1101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A712626,9,Austin,Stray,Normal,Cat,Intact Female,92,Domestic Cat Breed,Pattern,10,6,Spayed Female,103,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685202,8,Austin,Owner Surrender,Normal,Cat,Intact Male,38,Domestic Cat Breed,Blue series,8,6,Neutered Male,58,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A790276,3,Austin,Stray,Injured,Cat,Intact Male,730,Shorthair Cat Breed,Pattern,3,3,Neutered Male,748,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A725032,4,Austin,Stray,Normal,Dog,Intact Female,75,Retriever Dog Breed,Bi color,4,2,Intact Female,75,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A670439,1,Austin,Stray,Normal,Dog,Neutered Male,1826,Retriever Dog Breed,Gold series,1,1,Neutered Male,1827,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A747529,4,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Pattern,4,4,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A690422,10,Austin,Owner Surrender,Normal,Cat,Intact Female,76,Shorthair Cat Breed,Pattern,10,8,Intact Female,77,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A794344,5,Travis,Stray,Nursing,Cat,Intact Male,29,Domestic Cat Breed,Black,6,4,Neutered Male,78,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A794226,5,Austin,Stray,Normal,Dog,Intact Male,76,Working Dog Breed,Pattern,5,2,Intact Male,77,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A766583,2,Austin,Stray,Normal,Dog,Intact Male,1096,Toy Breed,Pattern,2,2,Intact Male,1097,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A754221,7,Austin,Owner Surrender,Normal,Cat,Intact Male,242,Domestic Cat Breed,Pattern,7,11,Neutered Male,246,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A803780,9,Travis,Stray,Injured,Dog,Intact Male,1826,Working Dog Breed,Bi color,10,9,Neutered Male,1874,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A704486,6,Austin,Stray,Normal,Cat,Spayed Female,1095,Domestic Cat Breed,Black,6,6,Spayed Female,1096,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A702907,5,Austin,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Black,5,4,Intact Male,30,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A801732,8,Austin,Wildlife,Sick,Other,Unknown,730,Procyonidae,Bi color,8,8,Unknown,731,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A710645,8,Austin,Stray,Injured,Other,Unknown,365,Procyonidae,Bi color,8,8,Unknown,366,0.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A689744,10,Austin,Stray,Normal,Dog,Intact Male,1096,Toy Breed,Bi color,10,10,Neutered Male,1101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A767055,2,Austin,Stray,Normal,Cat,Intact Female,306,Domestic Cat Breed,Pattern,3,4,Intact Female,318,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A724677,4,Austin,Stray,Normal,Cat,Intact Male,45,Domestic Cat Breed,Bi color,5,3,Neutered Male,62,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A737041,10,Austin,Owner Surrender,Normal,Cat,Intact Male,72,Domestic Cat Breed,Pattern,10,8,Neutered Male,81,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A697098,2,Austin,Stray,Sick,Dog,Intact Female,37,Working Dog Breed,Bi color,2,1,Intact Female,37,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A669472,12,Manor,Stray,Normal,Dog,Intact Male,1644,Terrier Dog Breed,Bi color,12,6,Neutered Male,1649,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A689092,9,Austin,Stray,Normal,Cat,Intact Male,730,Longhair Cat Breed,Pattern,9,9,Intact Male,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A801898,8,Austin,Owner Surrender,Normal,Dog,Intact Female,212,Herding Dog Breed,Bi color,8,1,Intact Female,215,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A732681,8,Austin,Owner Surrender,Normal,Dog,Neutered Male,1096,Working Dog Breed,Bi color,1,8,Neutered Male,1256,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A746681,4,Austin,Stray,Other,Dog,Intact Male,731,Retriever Dog Breed,Black,4,4,Neutered Male,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A752308,6,Austin,Owner Surrender,Normal,Cat,Spayed Female,2192,Domestic Cat Breed,Pattern,6,6,Spayed Female,2194,1.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A784718,11,Austin,Stray,Injured,Dog,Spayed Female,2802,Retriever Dog Breed,Brown series,11,3,Spayed Female,2803,0.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A738808,11,Austin,Owner Surrender,Normal,Dog,Spayed Female,366,Retriever Dog Breed,Bi color,11,11,Spayed Female,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A764349,12,Austin,Owner Surrender,Normal,Cat,Intact Male,61,Domestic Cat Breed,Bi color,1,10,Neutered Male,68,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A755341,8,Austin,Owner Surrender,Normal,Dog,Spayed Female,190,Retriever Dog Breed,Black,8,2,Spayed Female,192,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A726398,5,Austin,Owner Surrender,Normal,Cat,Intact Male,61,Domestic Cat Breed,Black,5,3,Intact Male,68,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A723794,4,Austin,Stray,Normal,Dog,Intact Female,3288,Retriever Dog Breed,Bi color,4,4,Intact Female,3296,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A722573,3,Austin,Stray,Normal,Dog,Intact Male,731,Terrier Dog Breed,Bi color,4,3,Neutered Male,746,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778777,8,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Bi color,8,8,Intact Female,369,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A786864,1,Austin,Stray,Normal,Dog,Neutered Male,5844,Toy Breed,Bi color,1,1,Neutered Male,5844,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A786672,12,Austin,Stray,Injured,Dog,Intact Female,730,Working Dog Breed,Bi color,12,12,Intact Female,731,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A772046,5,Austin,Stray,Normal,Dog,Intact Male,365,Toy Breed,Bi color,5,5,Intact Male,369,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A737763,11,Travis,Stray,Normal,Dog,Intact Male,1096,Terrier Dog Breed,White,11,11,Neutered Male,1103,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A799237,7,Austin,Stray,Normal,Dog,Intact Female,365,Retriever Dog Breed,Bi color,7,7,Intact Female,377,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A681460,6,Austin,Public Assist,Normal,Dog,Spayed Female,3652,Working Dog Breed,Bi color,6,6,Spayed Female,3653,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A677954,5,Austin,Public Assist,Sick,Dog,Intact Female,3652,Retriever Dog Breed,Gold series,5,5,Intact Female,3652,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A756777,8,Austin,Owner Surrender,Normal,Dog,Intact Male,1096,Toy Breed,Bi color,8,8,Intact Male,1097,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A773485,6,Austin,Stray,Normal,Dog,Intact Female,730,Retriever Dog Breed,Bi color,6,6,Spayed Female,756,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A789263,2,Austin,Wildlife,Sick,Other,Unknown,365,Bat,Black,2,2,Unknown,365,1.0,0.38314176245210724,Unhealthy,Unknown,Wild Mammals,0-1 days
+A743486,2,Austin,Owner Surrender,Normal,Dog,Intact Male,77,Retriever Dog Breed,Bi color,2,11,Intact Male,77,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A783717,11,Webberville,Stray,Normal,Dog,Intact Male,168,Working Dog Breed,White,12,5,Neutered Male,204,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A760369,10,Austin,Stray,Normal,Dog,Neutered Male,2434,Terrier Dog Breed,Bi color,10,2,Neutered Male,2434,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A801487,8,Austin,Stray,Normal,Dog,Intact Female,53,Toy Breed,Pattern,8,6,Intact Female,58,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A578068,9,Austin,Owner Surrender,Normal,Cat,Neutered Male,2355,Domestic Cat Breed,Pattern,10,4,Neutered Male,2366,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A723317,3,Austin,Stray,Normal,Cat,Intact Male,16,Domestic Cat Breed,Pattern,4,3,Intact Male,23,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A731601,7,Austin,Stray,Normal,Cat,Intact Female,112,Domestic Cat Breed,Pattern,7,4,Spayed Female,113,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A728119,5,Austin,Stray,Normal,Cat,Intact Female,30,Shorthair Cat Breed,Pattern,7,5,Spayed Female,72,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A717182,12,Austin,Owner Surrender,Normal,Dog,Intact Male,730,Toy Breed,Bi color,12,12,Neutered Male,741,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A810978,1,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,94,Herding Dog Breed,Bi color,1,10,Neutered Male,96,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A786707,12,Manor,Stray,Normal,Dog,Intact Male,730,Working Dog Breed,Bi color,1,12,Intact Male,733,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A775809,7,Austin,Stray,Normal,Cat,Intact Female,61,Shorthair Cat Breed,Pattern,7,5,Intact Female,61,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A712456,11,Austin,Stray,Normal,Dog,Neutered Male,1887,Working Dog Breed,Bi color,12,9,Neutered Male,1902,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A724121,4,Austin,Stray,Normal,Dog,Intact Female,46,Terrier Dog Breed,Bi color,4,2,Intact Female,50,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A731553,7,Austin,Owner Surrender,Normal,Cat,Intact Male,77,Domestic Cat Breed,Black,8,5,Neutered Male,97,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A739851,12,Austin,Public Assist,Normal,Cat,Intact Female,731,Domestic Cat Breed,Pattern,7,12,Spayed Female,962,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A698553,3,Austin,Stray,Normal,Dog,Intact Male,181,Working Dog Breed,Bi color,3,9,Neutered Male,189,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A599278,12,Austin,Stray,Normal,Dog,Intact Male,2072,Working Dog Breed,Gold series,1,4,Neutered Male,2078,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A732444,8,Travis,Stray,Normal,Dog,Spayed Female,731,Terrier Dog Breed,Bi color,8,8,Spayed Female,731,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A743546,2,Austin,Owner Surrender,Normal,Dog,Neutered Male,3485,Working Dog Breed,Pattern,4,8,Neutered Male,3528,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699396,3,Austin,Stray,Normal,Cat,Intact Female,273,Domestic Cat Breed,Pattern,4,6,Spayed Female,282,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A766967,12,Austin,Owner Surrender,Normal,Cat,Neutered Male,964,Domestic Cat Breed,Bi color,12,4,Neutered Male,967,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A731781,7,Austin,Stray,Normal,Dog,Intact Female,731,Terrier Dog Breed,Bi color,8,7,Spayed Female,736,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A718029,12,Austin,Stray,Normal,Dog,Neutered Male,365,Herding Dog Breed,Blue series,12,12,Neutered Male,370,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A793058,4,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Black,4,4,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A793164,4,Austin,Stray,Normal,Cat,Intact Male,38,Domestic Cat Breed,Pattern,6,3,Neutered Male,103,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A677708,4,Austin,Stray,Nursing,Cat,Intact Male,29,Domestic Cat Breed,Black,4,3,Intact Male,29,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A791693,3,Austin,Stray,Normal,Dog,Intact Male,365,Terrier Dog Breed,Bi color,4,3,Neutered Male,370,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A725662,5,Austin,Stray,Nursing,Cat,Unknown,0,Domestic Cat Breed,Pattern,5,5,Unknown,0,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A709716,8,Austin,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,8,8,Intact Female,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A802661,8,Austin,Stray,Normal,Dog,Intact Female,1095,Retriever Dog Breed,Bi color,8,8,Intact Female,1095,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A805715,10,Austin,Stray,Normal,Dog,Intact Male,518,Working Dog Breed,Bi color,10,5,Intact Male,518,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A783898,11,Austin,Owner Surrender,Normal,Cat,Spayed Female,4018,Domestic Cat Breed,Pattern,12,11,Spayed Female,4050,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A812838,1,Austin,Owner Surrender,Normal,Dog,Intact Male,730,Toy Breed,Bi color,1,1,Neutered Male,732,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A679365,5,Austin,Stray,Normal,Dog,Spayed Female,1460,Retriever Dog Breed,Black,5,5,Spayed Female,1462,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A799087,7,Travis,Stray,Normal,Cat,Intact Male,50,Domestic Cat Breed,Pattern,9,5,Neutered Male,118,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A707124,7,Austin,Stray,Normal,Dog,Neutered Male,730,Toy Breed,Bi color,7,7,Neutered Male,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A598437,9,Travis,Stray,Normal,Cat,Neutered Male,2198,Domestic Cat Breed,Pattern,10,9,Neutered Male,2217,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A727240,5,Travis,Stray,Normal,Cat,Unknown,7,Domestic Cat Breed,Pattern,5,5,Unknown,7,1.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A669883,12,Lago Vista,Owner Surrender,Normal,Cat,Neutered Male,1096,Shorthair Cat Breed,Pattern,5,12,Neutered Male,1219,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A711938,9,Austin,Stray,Normal,Dog,Intact Male,123,Working Dog Breed,Bi color,9,5,Neutered Male,127,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A800620,7,Austin,Stray,Normal,Cat,Intact Female,48,Domestic Cat Breed,Bi color,9,6,Spayed Female,92,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A648086,5,Austin,Owner Surrender,Normal,Dog,Neutered Male,625,Terrier Dog Breed,Bi color,5,9,Neutered Male,625,1.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A679409,5,Austin,Stray,Normal,Dog,Intact Male,55,Retriever Dog Breed,Brown series,5,3,Neutered Male,62,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778047,8,Austin,Stray,Normal,Cat,Intact Male,181,Domestic Cat Breed,Pattern,8,2,Neutered Male,202,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A696185,1,Austin,Owner Surrender,Normal,Dog,Intact Female,45,Working Dog Breed,Bi color,2,12,Spayed Female,60,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A677612,4,Austin,Stray,Normal,Cat,Intact Female,59,Domestic Cat Breed,Pattern,5,2,Spayed Female,68,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A807605,10,Austin,Stray,Normal,Cat,Spayed Female,730,Domestic Cat Breed,Pattern,11,10,Spayed Female,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A677112,4,Austin,Owner Surrender,Normal,Cat,Intact Female,182,Domestic Cat Breed,Pattern,5,10,Spayed Female,210,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A720854,2,Austin,Stray,Normal,Dog,Intact Male,2556,Toy Breed,Bi color,2,2,Neutered Male,2560,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A798149,6,Austin,Stray,Normal,Dog,Intact Male,1826,Working Dog Breed,Brown series,6,6,Intact Male,1826,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A675935,4,Austin,Owner Surrender,Sick,Dog,Intact Male,1826,Working Dog Breed,Pattern,4,4,Intact Male,1827,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A683412,7,Austin,Stray,Normal,Cat,Intact Male,61,Shorthair Cat Breed,Pattern,7,5,Intact Male,65,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A762291,11,Austin,Owner Surrender,Normal,Dog,Intact Female,153,Herding Dog Breed,Bi color,11,6,Spayed Female,157,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A684608,7,Del Valle,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Bi color,10,6,Neutered Male,100,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702424,5,Austin,Stray,Normal,Dog,Intact Female,730,Toy Breed,Bi color,5,5,Spayed Female,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A711205,9,Austin,Stray,Normal,Dog,Intact Male,5478,Terrier Dog Breed,Bi color,9,9,Intact Male,5478,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A759020,9,Austin,Stray,Normal,Dog,Intact Female,1096,Toy Breed,Bi color,10,9,Intact Female,1103,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A729681,6,Austin,Stray,Normal,Dog,Intact Female,731,Toy Breed,Bi color,6,6,Intact Female,733,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A684864,7,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Bi color,7,7,Unknown,365,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A684379,7,Austin,Public Assist,Normal,Dog,Neutered Male,1004,Terrier Dog Breed,Pattern,8,10,Neutered Male,1013,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A711657,9,Austin,Stray,Normal,Dog,Intact Female,1095,Terrier Dog Breed,Bi color,11,9,Spayed Female,1161,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A671549,9,Austin,Stray,Normal,Cat,Neutered Male,2420,Domestic Cat Breed,Bi color,9,1,Neutered Male,2421,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A705164,6,Austin,Stray,Injured,Cat,Intact Male,547,Domestic Cat Breed,Pattern,6,12,Neutered Male,563,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A670732,1,Austin,Wildlife,Sick,Other,Unknown,365,Procyonidae,Bi color,1,1,Unknown,365,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A679831,5,Travis,Public Assist,Normal,Dog,Spayed Female,1096,Toy Breed,Brown series,5,5,Spayed Female,1099,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A754288,11,Austin,Stray,Normal,Dog,Neutered Male,1590,Hound Dong Breed,Bi color,11,7,Neutered Male,1590,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A683128,7,Lakeway,Stray,Normal,Cat,Intact Male,68,Domestic Cat Breed,Black,7,4,Intact Male,69,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A776531,7,Austin,Stray,Normal,Dog,Intact Male,30,Hound Dong Breed,Bi color,8,6,Neutered Male,67,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A701501,4,Austin,Stray,Normal,Cat,Intact Male,38,Domestic Cat Breed,Pattern,5,3,Neutered Male,69,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A718245,12,Austin,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,Bi color,12,12,Neutered Male,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769380,4,Austin,Owner Surrender,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,4,4,Spayed Female,733,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A718865,1,Austin,Stray,Normal,Dog,Intact Female,57,Herding Dog Breed,Bi color,1,11,Spayed Female,61,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A788679,2,Austin,Wildlife,Sick,Other,Unknown,730,Bat,Brown series,2,2,Unknown,730,1.0,0.38314176245210724,Unhealthy,Unknown,Wild Mammals,0-1 days
+A731964,7,Manor,Stray,Normal,Dog,Spayed Female,1443,Terrier Dog Breed,Brown series,9,8,Spayed Female,1488,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A799980,7,Austin,Stray,Normal,Dog,Spayed Female,2251,Toy Breed,Bi color,7,5,Spayed Female,2260,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A780939,9,Austin,Stray,Normal,Cat,Neutered Male,97,Domestic Cat Breed,Pattern,10,6,Neutered Male,128,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A809064,11,Austin,Stray,Normal,Dog,Intact Male,2191,Terrier Dog Breed,Bi color,11,11,Neutered Male,2202,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A671412,1,Del Valle,Stray,Normal,Dog,Intact Female,731,Herding Dog Breed,Bi color,2,1,Spayed Female,741,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A791398,3,Austin,Owner Surrender,Normal,Dog,Neutered Male,248,Toy Breed,Bi color,3,7,Neutered Male,248,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A751540,6,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Black,6,4,Neutered Male,70,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A747817,7,Austin,Stray,Normal,Cat,Intact Female,1187,Domestic Cat Breed,Pattern,11,4,Spayed Female,1290,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A713101,10,Austin,Stray,Normal,Cat,Intact Female,37,Domestic Cat Breed,Black,1,8,Spayed Female,156,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A795339,5,Austin,Stray,Normal,Cat,Intact Male,45,Domestic Cat Breed,Bi color,6,4,Neutered Male,59,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A721210,2,Austin,Public Assist,Normal,Dog,Spayed Female,2191,Toy Breed,Brown series,2,2,Spayed Female,2197,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A806516,10,Manor,Stray,Normal,Dog,Intact Female,168,Terrier Dog Breed,Bi color,10,4,Intact Female,179,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A730291,7,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Pattern,7,5,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A738852,11,Austin,Owner Surrender,Sick,Dog,Neutered Male,2557,Terrier Dog Breed,Bi color,11,11,Neutered Male,2565,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A745151,3,Austin,Stray,Normal,Dog,Neutered Male,120,Working Dog Breed,White,3,11,Neutered Male,120,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A774272,6,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Brown series,6,6,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A720974,2,Austin,Stray,Normal,Dog,Neutered Male,87,Toy Breed,Bi color,2,12,Neutered Male,87,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A735678,9,Austin,Stray,Normal,Dog,Intact Male,366,Working Dog Breed,White,10,9,Neutered Male,372,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A799479,7,Manor,Stray,Normal,Dog,Intact Male,733,Toy Breed,Bi color,7,7,Neutered Male,738,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A774204,6,Travis,Stray,Normal,Dog,Intact Female,61,Retriever Dog Breed,Bi color,6,4,Spayed Female,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A763271,12,Austin,Stray,Normal,Dog,Intact Female,303,Terrier Dog Breed,Bi color,12,2,Spayed Female,316,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A728317,6,Austin,Owner Surrender,Normal,Cat,Neutered Male,731,Domestic Cat Breed,Pattern,8,6,Neutered Male,810,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A739090,11,Austin,Stray,Normal,Dog,Intact Female,214,Terrier Dog Breed,Blue series,12,4,Spayed Female,225,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A730275,11,Austin,Owner Surrender,Normal,Dog,Spayed Female,500,Working Dog Breed,Brown series,11,7,Spayed Female,508,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A747666,4,Austin,Stray,Normal,Cat,Intact Male,38,Domestic Cat Breed,Pattern,5,3,Neutered Male,58,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A776976,7,Austin,Stray,Normal,Cat,Intact Female,38,Domestic Cat Breed,Pattern,8,6,Spayed Female,78,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A705920,6,Austin,Stray,Normal,Dog,Intact Female,364,Terrier Dog Breed,Bi color,11,6,Spayed Female,521,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A634858,8,Austin,Stray,Normal,Dog,Spayed Female,968,Terrier Dog Breed,Bi color,8,12,Spayed Female,973,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A754737,7,Austin,Stray,Injured,Dog,Neutered Male,3009,Terrier Dog Breed,Bi color,7,4,Neutered Male,3016,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A710712,8,Austin,Stray,Normal,Dog,Neutered Male,365,Retriever Dog Breed,Bi color,8,8,Neutered Male,367,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A756307,8,Austin,Owner Surrender,Normal,Cat,Intact Female,66,Domestic Cat Breed,Pattern,8,6,Intact Female,67,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A786539,12,Del Valle,Stray,Normal,Dog,Intact Female,55,Working Dog Breed,Bi color,1,11,Intact Female,62,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A788876,2,Austin,Stray,Normal,Dog,Intact Male,59,Terrier Dog Breed,Bi color,2,12,Intact Male,63,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A545301,8,Austin,Owner Surrender,Normal,Cat,Spayed Female,2985,Longhair Cat Breed,Pattern,8,6,Spayed Female,3004,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A774937,6,Travis,Owner Surrender,Normal,Cat,Intact Male,61,Domestic Cat Breed,Brown series,6,4,Neutered Male,63,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A775203,6,Travis,Stray,Injured,Cat,Intact Male,107,Domestic Cat Breed,Pattern,2,3,Neutered Male,331,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A730288,7,Austin,Stray,Normal,Cat,Intact Male,66,Shorthair Cat Breed,Pattern,8,4,Neutered Male,115,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A781730,10,Austin,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Pattern,12,9,Neutered Male,471,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A686704,8,Austin,Owner Surrender,Normal,Dog,Spayed Female,1826,Toy Breed,Bi color,8,8,Spayed Female,1831,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699983,4,Austin,Stray,Normal,Cat,Intact Male,730,Domestic Cat Breed,Pattern,5,4,Neutered Male,756,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A784699,11,Manor,Stray,Normal,Dog,Intact Male,2922,Toy Breed,Bi color,1,11,Neutered Male,2973,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A796454,6,Austin,Stray,Normal,Cat,Neutered Male,730,Domestic Cat Breed,Pattern,7,6,Neutered Male,767,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A687132,9,Austin,Stray,Normal,Dog,Neutered Male,729,Working Dog Breed,Bi color,9,9,Neutered Male,732,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A669143,12,Austin,Owner Surrender,Normal,Cat,Intact Male,52,Domestic Cat Breed,Pattern,12,10,Intact Male,61,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A699286,3,Austin,Stray,Normal,Cat,Intact Male,730,Domestic Cat Breed,Bi color,3,3,Intact Male,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A699316,3,Austin,Stray,Normal,Dog,Intact Male,1461,Working Dog Breed,Pattern,4,3,Neutered Male,1470,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A736620,10,Austin,Stray,Normal,Cat,Intact Female,52,Domestic Cat Breed,Black,12,8,Spayed Female,114,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A700970,4,Austin,Stray,Normal,Dog,Spayed Female,3652,Retriever Dog Breed,Bi color,4,4,Spayed Female,3654,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A775884,7,Austin,Stray,Normal,Dog,Intact Male,730,Toy Breed,Red series,7,7,Neutered Male,733,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A715865,11,Austin,Stray,Normal,Dog,Intact Female,1095,Toy Breed,Bi color,11,11,Spayed Female,1105,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A791052,3,Austin,Owner Surrender,Normal,Dog,Intact Female,59,Herding Dog Breed,Bi color,3,1,Spayed Female,61,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A712109,9,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Blue series,9,8,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A683706,7,Austin,Stray,Normal,Cat,Intact Female,36,Domestic Cat Breed,Bi color,9,6,Spayed Female,85,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A720125,2,Austin,Stray,Nursing,Dog,Intact Female,3,Working Dog Breed,Pattern,4,1,Spayed Female,64,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775712,7,Austin,Stray,Normal,Cat,Intact Female,41,Domestic Cat Breed,Pattern,9,5,Spayed Female,113,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A784129,11,Austin,Stray,Normal,Dog,Spayed Female,365,Herding Dog Breed,Bi color,11,11,Spayed Female,365,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A774140,6,Austin,Stray,Normal,Cat,Intact Male,49,Domestic Cat Breed,Blue series,6,4,Intact Male,54,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A777649,8,Austin,Wildlife,Injured,Bird,Unknown,92,Large bird,Bi color,8,5,Unknown,92,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A409637,4,Austin,Stray,Aged,Dog,Neutered Male,4177,Terrier Dog Breed,Bi color,4,10,Neutered Male,4182,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A726472,5,Austin,Stray,Normal,Dog,Intact Female,0,Hound Dong Breed,Pattern,7,5,Spayed Female,57,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A670433,1,Austin,Stray,Normal,Dog,Intact Male,2192,Toy Breed,White,1,1,Neutered Male,2197,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A776419,7,Austin,Stray,Normal,Cat,Unknown,730,Domestic Cat Breed,Pattern,7,7,Unknown,734,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A743139,2,Austin,Owner Surrender,Normal,Dog,Intact Female,1827,Terrier Dog Breed,Red series,2,2,Spayed Female,1846,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A780604,9,Austin,Stray,Normal,Dog,Intact Female,365,Hound Dong Breed,Bi color,10,9,Intact Female,408,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A720067,2,Del Valle,Owner Surrender,Normal,Cat,Intact Female,92,Domestic Cat Breed,Pattern,2,11,Spayed Female,94,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A753414,7,Austin,Stray,Normal,Dog,Intact Male,731,Toy Breed,Pattern,7,7,Intact Male,750,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A666283,10,Austin,Stray,Normal,Dog,Intact Female,731,Terrier Dog Breed,Pattern,2,10,Spayed Female,847,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A781421,9,Austin,Owner Surrender,Injured,Cat,Unknown,22,Domestic Cat Breed,Pattern,9,9,Unknown,22,0.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A752310,6,Travis,Public Assist,Normal,Dog,Spayed Female,2922,Retriever Dog Breed,Brown series,6,6,Spayed Female,2922,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A781612,10,Austin,Stray,Nursing,Cat,Intact Male,1,Domestic Cat Breed,Bi color,12,10,Neutered Male,83,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A693067,12,Austin,Owner Surrender,Normal,Dog,Intact Female,365,Hound Dong Breed,Pattern,2,12,Spayed Female,440,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A721190,2,Austin,Stray,Normal,Dog,Spayed Female,1826,Terrier Dog Breed,Bi color,2,2,Spayed Female,1826,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A812297,1,Manor,Stray,Normal,Dog,Intact Female,137,Herding Dog Breed,Pattern,1,9,Spayed Female,143,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A774012,6,Austin,Stray,Normal,Dog,Neutered Male,243,Retriever Dog Breed,Gold series,6,10,Neutered Male,255,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A723843,4,Austin,Owner Surrender,Normal,Cat,Neutered Male,4760,Domestic Cat Breed,Pattern,5,4,Neutered Male,4794,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A806217,10,Travis,Owner Surrender,Normal,Cat,Intact Male,70,Domestic Cat Breed,Pattern,10,7,Neutered Male,76,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A758351,9,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Brown series,9,9,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A720628,2,Austin,Stray,Normal,Dog,Intact Female,548,Terrier Dog Breed,White,2,8,Intact Female,549,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A811422,1,Travis,Stray,Normal,Dog,Intact Male,38,Retriever Dog Breed,Bi color,1,11,Intact Male,45,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A798105,6,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Brown series,6,6,Unknown,365,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A786297,12,Austin,Stray,Normal,Dog,Spayed Female,365,Retriever Dog Breed,Black,12,12,Spayed Female,365,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A750578,5,Travis,Stray,Normal,Dog,Intact Female,365,Working Dog Breed,Bi color,5,5,Intact Female,365,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A781552,10,Austin,Stray,Normal,Dog,Intact Male,118,Hound Dong Breed,Brown series,10,6,Neutered Male,122,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A680909,12,Travis,Owner Surrender,Normal,Cat,Spayed Female,2089,Shorthair Cat Breed,Pattern,12,4,Spayed Female,2094,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A807683,10,Austin,Stray,Normal,Cat,Intact Female,122,Domestic Cat Breed,Pattern,11,6,Spayed Female,128,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A673652,2,Austin,Owner Surrender,Normal,Dog,Intact Male,731,Herding Dog Breed,Bi color,3,2,Neutered Male,759,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A686594,8,Austin,Stray,Normal,Dog,Intact Male,122,Hound Dong Breed,Bi color,8,4,Intact Male,129,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A699611,3,Austin,Public Assist,Normal,Dog,Neutered Male,730,Toy Breed,Pattern,4,3,Neutered Male,738,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A766816,2,Travis,Stray,Normal,Dog,Intact Female,731,Herding Dog Breed,Bi color,9,2,Spayed Female,941,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A729432,6,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Pattern,8,4,Neutered Male,109,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A717866,12,Austin,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,12,12,Spayed Female,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A787628,1,Austin,Owner Surrender,Normal,Dog,Neutered Male,2191,Terrier Dog Breed,Bi color,1,1,Neutered Male,2191,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A531278,9,Travis,Stray,Normal,Dog,Intact Male,2701,Terrier Dog Breed,Bi color,9,4,Intact Male,2701,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A600056,3,Austin,Owner Surrender,Normal,Dog,Neutered Male,2701,Terrier Dog Breed,Bi color,3,11,Neutered Male,2702,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A753765,7,Austin,Stray,Normal,Cat,Spayed Female,365,Domestic Cat Breed,Bi color,7,7,Spayed Female,384,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678054,5,Austin,Stray,Normal,Dog,Intact Male,365,Terrier Dog Breed,Bi color,5,5,Neutered Male,388,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A710179,8,Austin,Stray,Normal,Cat,Intact Male,122,Shorthair Cat Breed,Pattern,9,4,Neutered Male,151,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A734095,9,Travis,Stray,Normal,Dog,Intact Female,366,Working Dog Breed,Bi color,9,9,Spayed Female,372,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A803452,9,Austin,Owner Surrender,Normal,Cat,Intact Male,207,Domestic Cat Breed,Pattern,9,2,Neutered Male,215,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A683835,7,Austin,Stray,Normal,Cat,Intact Male,730,Domestic Cat Breed,Pattern,7,7,Intact Male,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A753020,6,Austin,Stray,Normal,Cat,Intact Male,731,Domestic Cat Breed,Black,7,6,Intact Male,735,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A729359,6,Austin,Stray,Injured,Cat,Intact Female,47,Domestic Cat Breed,Pattern,7,5,Spayed Female,69,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A733817,8,Austin,Stray,Normal,Dog,Intact Male,366,Retriever Dog Breed,Brown series,9,8,Neutered Male,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A796007,5,Austin,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,6,5,Intact Female,745,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A691403,11,Austin,Stray,Normal,Dog,Intact Male,2191,Terrier Dog Breed,Pattern,11,11,Intact Male,2195,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A436250,9,Pflugerville,Stray,Normal,Dog,Spayed Female,4827,Toy Breed,Gold series,9,6,Spayed Female,4831,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685822,8,Austin,Stray,Injured,Dog,Intact Female,1826,Terrier Dog Breed,Bi color,8,8,Intact Female,1826,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A742923,1,Travis,Stray,Normal,Dog,Neutered Male,366,Working Dog Breed,Bi color,1,1,Neutered Male,367,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A715302,11,Austin,Stray,Sick,Cat,Intact Male,365,Domestic Cat Breed,Blue series,11,11,Intact Male,365,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A781887,10,Austin,Stray,Normal,Cat,Unknown,273,Domestic Cat Breed,Pattern,10,1,Unknown,277,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A612451,10,Austin,Stray,Normal,Dog,Neutered Male,817,Terrier Dog Breed,Brown series,10,8,Neutered Male,818,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A801227,8,Austin,Owner Surrender,Normal,Cat,Intact Female,122,Domestic Cat Breed,Pattern,8,4,Spayed Female,128,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A670247,1,Austin,Stray,Normal,Cat,Intact Male,306,Domestic Cat Breed,Pattern,1,3,Neutered Male,314,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775589,7,Del Valle,Stray,Normal,Dog,Intact Female,242,Terrier Dog Breed,Bi color,7,11,Intact Female,248,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A709520,8,Austin,Stray,Normal,Dog,Intact Female,61,Hound Dong Breed,Bi color,8,6,Intact Female,64,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A747078,4,Austin,Stray,Normal,Dog,Intact Male,365,Toy Breed,Bi color,4,4,Intact Male,368,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A772131,5,Austin,Stray,Normal,Cat,Intact Male,29,Domestic Cat Breed,Pattern,6,4,Neutered Male,69,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A794563,5,Austin,Stray,Normal,Cat,Spayed Female,730,Domestic Cat Breed,Bi color,5,5,Spayed Female,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A671013,11,Austin,Owner Surrender,Normal,Cat,Spayed Female,5406,Domestic Cat Breed,Pattern,12,1,Spayed Female,5452,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A758618,9,Austin,Stray,Normal,Cat,Intact Female,7,Domestic Cat Breed,Pattern,9,9,Intact Female,7,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A791898,4,Austin,Public Assist,Normal,Dog,Neutered Male,732,Working Dog Breed,Bi color,4,4,Neutered Male,741,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A709720,8,Austin,Stray,Normal,Dog,Intact Male,57,Toy Breed,Black,8,6,Intact Male,58,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A665645,10,Austin,Stray,Sick,Cat,Intact Male,1096,Domestic Cat Breed,Bi color,10,10,Intact Male,1096,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A798828,7,Manor,Stray,Normal,Cat,Intact Male,365,Domestic Cat Breed,Pattern,7,7,Intact Male,369,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A794071,5,Austin,Stray,Normal,Cat,Unknown,1,Domestic Cat Breed,Black,5,5,Unknown,1,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A734221,9,Austin,Public Assist,Normal,Dog,Intact Male,731,Terrier Dog Breed,Bi color,12,9,Neutered Male,834,1.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A583757,8,Austin,Stray,Normal,Dog,Neutered Male,3252,Retriever Dog Breed,Black,8,9,Neutered Male,3252,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A681006,6,Austin,Owner Surrender,Normal,Dog,Neutered Male,1461,Toy Breed,Bi color,6,6,Neutered Male,1465,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A690564,10,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Pattern,10,9,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A687749,9,Austin,Owner Surrender,Normal,Cat,Intact Male,99,Domestic Cat Breed,Pattern,9,6,Neutered Male,103,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A780434,9,Austin,Stray,Sick,Cat,Spayed Female,365,Domestic Cat Breed,Pattern,9,9,Spayed Female,366,1.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A711474,9,Travis,Owner Surrender,Normal,Cat,Neutered Male,184,Domestic Cat Breed,Pattern,9,3,Neutered Male,205,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A783543,11,Austin,Stray,Nursing,Cat,Intact Female,730,Domestic Cat Breed,Black,11,11,Intact Female,749,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A812291,1,Austin,Stray,Normal,Dog,Intact Female,730,Herding Dog Breed,Pattern,1,1,Spayed Female,736,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A806288,10,Travis,Stray,Normal,Dog,Intact Female,730,Terrier Dog Breed,Bi color,12,10,Spayed Female,788,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A727265,5,Austin,Owner Surrender,Normal,Cat,Neutered Male,3288,Shorthair Cat Breed,Pattern,5,5,Neutered Male,3290,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A712849,9,Creedmoor,Stray,Normal,Dog,Intact Male,62,Retriever Dog Breed,Bi color,10,7,Neutered Male,67,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A743062,2,Austin,Stray,Normal,Dog,Intact Female,153,Working Dog Breed,Red series,2,9,Spayed Female,158,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A710763,9,Austin,Owner Surrender,Normal,Dog,Neutered Male,1469,Hound Dong Breed,Bi color,9,8,Neutered Male,1478,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A660984,5,Austin,Stray,Normal,Dog,Spayed Female,1376,Terrier Dog Breed,Bi color,5,8,Spayed Female,1382,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A683731,7,Austin,Stray,Normal,Dog,Intact Male,730,Herding Dog Breed,Bi color,12,7,Neutered Male,879,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678817,5,Austin,Stray,Normal,Cat,Intact Female,37,Domestic Cat Breed,Pattern,6,4,Spayed Female,76,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A787812,1,Austin,Stray,Normal,Cat,Neutered Male,365,Domestic Cat Breed,Bi color,1,1,Neutered Male,366,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A788019,1,Austin,Public Assist,Normal,Dog,Spayed Female,732,Working Dog Breed,Black,1,1,Spayed Female,737,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A727667,5,Austin,Stray,Normal,Dog,Intact Male,366,Toy Breed,Bi color,5,5,Neutered Male,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A695483,1,Austin,Stray,Normal,Cat,Neutered Male,730,Domestic Cat Breed,Pattern,1,1,Neutered Male,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775159,6,Austin,Stray,Normal,Dog,Neutered Male,270,Retriever Dog Breed,Black,6,9,Neutered Male,276,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A731408,8,Austin,Stray,Normal,Dog,Neutered Male,1125,Hound Dong Breed,Bi color,8,7,Neutered Male,1129,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A760785,10,Austin,Stray,Normal,Dog,Intact Female,2191,Working Dog Breed,Bi color,10,10,Intact Female,2194,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A697263,10,Austin,Stray,Normal,Dog,Spayed Female,325,Terrier Dog Breed,Bi color,10,11,Spayed Female,332,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A722746,3,Austin,Wildlife,Normal,Other,Unknown,366,Bat,Bi color,3,3,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A792921,4,Austin,Owner Surrender,Normal,Other,Intact Female,212,Mice predating small mammals,Pattern,4,9,Intact Female,214,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A730232,6,Austin,Stray,Normal,Dog,Intact Female,61,Working Dog Breed,Bi color,7,4,Spayed Female,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A790070,3,Austin,Public Assist,Normal,Dog,Spayed Female,730,Working Dog Breed,Bi color,3,3,Spayed Female,742,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778588,8,Austin,Stray,Normal,Cat,Intact Female,46,Domestic Cat Breed,Pattern,10,7,Spayed Female,96,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A763968,12,Austin,Stray,Normal,Cat,Intact Female,114,Domestic Cat Breed,Pattern,1,8,Spayed Female,146,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A786757,12,Austin,Public Assist,Normal,Other,Unknown,365,Bat,Brown series,1,12,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A793997,5,Austin,Stray,Normal,Dog,Intact Male,273,Working Dog Breed,Bi color,5,8,Neutered Male,283,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A807223,10,Austin,Stray,Normal,Cat,Intact Female,92,Domestic Cat Breed,Pattern,10,7,Intact Female,96,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A775921,7,Austin,Stray,Normal,Dog,Intact Female,122,Working Dog Breed,Bi color,7,3,Spayed Female,132,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A790169,3,Austin,Public Assist,Normal,Other,Unknown,7670,Bat,Brown series,3,3,Unknown,7671,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A685582,8,Austin,Stray,Normal,Cat,Intact Female,22,Domestic Cat Breed,Bi color,8,7,Intact Female,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A777298,7,Austin,Stray,Normal,Dog,Intact Female,72,Working Dog Breed,Bi color,7,5,Spayed Female,77,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A720807,11,Austin,Stray,Normal,Dog,Spayed Female,1366,Toy Breed,Bi color,11,2,Spayed Female,1370,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A714772,10,Austin,Public Assist,Normal,Dog,Intact Male,1096,Toy Breed,White,11,10,Neutered Male,1107,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A774879,6,Austin,Stray,Normal,Cat,Intact Female,44,Domestic Cat Breed,Pattern,6,5,Intact Female,44,1.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A696052,1,Austin,Stray,Normal,Cat,Intact Female,184,Domestic Cat Breed,Pattern,1,7,Intact Female,185,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A781632,10,Austin,Stray,Normal,Dog,Spayed Female,1826,Hound Dong Breed,Bi color,12,10,Spayed Female,1903,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678963,5,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Pattern,5,4,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A682210,6,Austin,Stray,Normal,Dog,Intact Male,182,Hound Dong Breed,Pattern,6,12,Neutered Male,186,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699879,4,Austin,Stray,Normal,Dog,Intact Male,52,Terrier Dog Breed,Pattern,4,2,Intact Male,53,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A787920,1,Austin,Owner Surrender,Normal,Dog,Intact Female,1096,Terrier Dog Breed,Pattern,1,1,Intact Female,1102,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A772776,5,Austin,Stray,Normal,Cat,Spayed Female,365,Domestic Cat Breed,Pattern,5,5,Spayed Female,365,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A710846,8,Austin,Stray,Normal,Cat,Unknown,122,Domestic Cat Breed,Black,8,4,Unknown,123,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A778201,8,Austin,Stray,Normal,Cat,Intact Male,34,Domestic Cat Breed,Bi color,9,7,Neutered Male,81,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685687,8,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Bi color,8,8,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A713205,10,Austin,Wildlife,Normal,Other,Unknown,30,Bat,Bi color,10,9,Unknown,30,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A810725,12,Austin,Public Assist,Normal,Dog,Intact Female,365,Working Dog Breed,Red series,12,12,Spayed Female,374,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681576,6,Austin,Stray,Normal,Dog,Intact Male,36,Working Dog Breed,Bi color,7,5,Neutered Male,55,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681824,6,Austin,Stray,Normal,Cat,Intact Male,1461,Domestic Cat Breed,Pattern,6,6,Intact Male,1462,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A706735,7,Austin,Stray,Normal,Dog,Intact Male,1826,Toy Breed,Bi color,7,7,Neutered Male,1836,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A675201,3,Austin,Wildlife,Normal,Other,Unknown,181,Bat,Brown series,3,9,Unknown,181,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A760926,10,Austin,Stray,Normal,Dog,Intact Male,365,Toy Breed,Brown series,10,10,Neutered Male,369,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A749651,5,Austin,Stray,Injured,Cat,Intact Male,30,Domestic Cat Breed,Black,5,4,Intact Male,31,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A803248,8,Austin,Stray,Normal,Dog,Intact Male,122,Terrier Dog Breed,Bi color,9,4,Neutered Male,126,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685425,8,Austin,Stray,Normal,Cat,Intact Male,15,Domestic Cat Breed,Pattern,8,7,Intact Male,15,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A591112,5,Austin,Owner Surrender,Normal,Cat,Spayed Female,3350,Domestic Cat Breed,Pattern,5,3,Spayed Female,3355,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A668322,12,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Pattern,12,12,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A672305,2,Austin,Stray,Normal,Cat,Spayed Female,3653,Domestic Cat Breed,Pattern,2,2,Spayed Female,3663,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A579684,8,Austin,Public Assist,Normal,Dog,Spayed Female,2206,Herding Dog Breed,Black,8,7,Spayed Female,2207,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A746364,7,Austin,Stray,Normal,Dog,Spayed Female,154,Working Dog Breed,Pattern,7,2,Spayed Female,161,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A758274,9,Austin,Stray,Normal,Dog,Intact Male,168,Retriever Dog Breed,Bi color,9,3,Neutered Male,174,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A718590,1,Austin,Stray,Normal,Cat,Spayed Female,364,Domestic Cat Breed,Pattern,1,1,Spayed Female,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A735681,9,Austin,Stray,Normal,Dog,Intact Male,123,Toy Breed,Black,9,5,Neutered Male,124,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A677078,4,Austin,Stray,Normal,Dog,Intact Female,2170,Working Dog Breed,Bi color,5,5,Spayed Female,2207,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A745074,3,Austin,Stray,Normal,Dog,Intact Female,43,Herding Dog Breed,Bi color,3,1,Intact Female,44,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A725616,4,Austin,Stray,Normal,Dog,Intact Male,730,Working Dog Breed,Bi color,5,5,Neutered Male,743,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A726671,5,Travis,Stray,Normal,Dog,Intact Male,22,Working Dog Breed,White,5,4,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A759730,10,Austin,Stray,Normal,Cat,Spayed Female,3650,Domestic Cat Breed,Pattern,10,10,Spayed Female,3655,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A718280,12,Austin,Stray,Normal,Dog,Intact Female,1737,Working Dog Breed,Pattern,12,3,Intact Female,1741,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A748026,5,Austin,Owner Surrender,Normal,Dog,Neutered Male,373,Working Dog Breed,White,5,5,Neutered Male,393,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A712316,9,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Pattern,9,9,Unknown,16,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A706506,6,Austin,Stray,Normal,Cat,Unknown,4,Domestic Cat Breed,Black,6,6,Unknown,5,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A756105,8,Manor,Stray,Normal,Dog,Intact Male,40,Retriever Dog Breed,Bi color,8,7,Intact Male,43,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A732939,8,Austin,Stray,Injured,Dog,Intact Male,544,Terrier Dog Breed,Bi color,9,2,Neutered Male,572,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A671994,2,Austin,Stray,Normal,Dog,Spayed Female,4018,Retriever Dog Breed,Gold series,2,2,Spayed Female,4018,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A766107,2,Manor,Stray,Normal,Cat,Intact Male,215,Domestic Cat Breed,Pattern,2,7,Intact Male,219,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A674993,3,Austin,Owner Surrender,Normal,Cat,Intact Female,120,Shorthair Cat Breed,Pattern,3,11,Spayed Female,122,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A671926,2,Austin,Owner Surrender,Normal,Cat,Intact Male,291,Domestic Cat Breed,Black,2,4,Neutered Male,295,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769194,4,Austin,Stray,Normal,Dog,Intact Female,178,Terrier Dog Breed,Bi color,4,10,Spayed Female,185,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A674561,3,Austin,Stray,Normal,Dog,Intact Male,546,Terrier Dog Breed,Bi color,10,9,Neutered Male,772,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A731116,7,Austin,Owner Surrender,Normal,Dog,Intact Male,110,Terrier Dog Breed,Bi color,7,4,Intact Male,111,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A673835,3,Travis,Owner Surrender,Normal,Cat,Intact Female,730,Domestic Cat Breed,Blue series,3,3,Intact Female,730,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A662043,5,Travis,Public Assist,Normal,Dog,Spayed Female,2455,Terrier Dog Breed,Bi color,6,8,Spayed Female,2468,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A679049,5,Austin,Public Assist,Normal,Dog,Neutered Male,2317,Retriever Dog Breed,Gold series,5,1,Neutered Male,2323,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A787559,1,Austin,Stray,Normal,Dog,Intact Female,130,Toy Breed,Brown series,1,9,Spayed Female,137,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A705138,6,Austin,Stray,Normal,Cat,Intact Female,61,Domestic Cat Breed,Pattern,6,4,Spayed Female,78,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A708666,7,Austin,Stray,Normal,Cat,Neutered Male,2556,Shorthair Cat Breed,Blue series,7,7,Neutered Male,2556,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A710988,8,Austin,Stray,Normal,Cat,Unknown,730,Domestic Cat Breed,Black,9,8,Unknown,731,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A722606,3,Travis,Public Assist,Normal,Bird,Intact Male,366,Chicken,Red series,5,3,Intact Male,411,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A678825,5,Travis,Stray,Normal,Cat,Intact Male,37,Domestic Cat Breed,Pattern,7,4,Neutered Male,97,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702237,5,Austin,Stray,Normal,Dog,Intact Male,733,Toy Breed,White,5,5,Neutered Male,737,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A677746,4,Austin,Stray,Normal,Dog,Intact Male,1461,Toy Breed,White,5,4,Neutered Male,1467,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A688878,10,Austin,Owner Surrender,Normal,Cat,Neutered Male,62,Domestic Cat Breed,Pattern,10,7,Neutered Male,64,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A640235,7,Austin,Public Assist,Normal,Dog,Spayed Female,1461,Toy Breed,White,7,7,Spayed Female,1463,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A738751,11,Austin,Stray,Normal,Cat,Intact Female,366,Domestic Cat Breed,Pattern,11,11,Spayed Female,367,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A767839,3,Austin,Owner Surrender,Normal,Dog,Intact Female,273,Herding Dog Breed,Bi color,3,6,Spayed Female,283,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699897,4,Austin,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,4,4,Intact Female,741,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A687437,9,Pflugerville,Stray,Normal,Cat,Intact Male,31,Domestic Cat Breed,Black,10,8,Neutered Male,70,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A694406,12,Austin,Stray,Normal,Dog,Intact Female,1461,Terrier Dog Breed,Bi color,1,12,Intact Female,1466,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A812783,1,Austin,Stray,Normal,Dog,Intact Female,730,Toy Breed,White,1,1,Intact Female,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A751495,6,Austin,Stray,Normal,Dog,Intact Female,72,Hound Dong Breed,Pattern,6,3,Spayed Female,76,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A737952,11,Austin,Stray,Sick,Cat,Intact Female,92,Domestic Cat Breed,Pattern,11,8,Intact Female,93,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A743002,2,Austin,Owner Surrender,Normal,Dog,Neutered Male,550,Hound Dong Breed,Bi color,2,8,Neutered Male,552,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A790568,3,Austin,Owner Surrender,Sick,Dog,Intact Female,90,Toy Breed,Black,3,12,Intact Female,90,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A742190,1,Austin,Wildlife,Normal,Other,Unknown,366,Bat,Bi color,1,1,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A709611,8,Austin,Stray,Normal,Dog,Intact Female,49,Working Dog Breed,Pattern,8,6,Intact Female,59,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A726808,5,Austin,Stray,Normal,Dog,Spayed Female,731,Toy Breed,Bi color,5,5,Spayed Female,736,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A732994,10,Austin,Stray,Normal,Cat,Intact Female,898,Domestic Cat Breed,Blue series,10,5,Intact Female,900,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A781566,10,Austin,Stray,Normal,Cat,Intact Male,273,Domestic Cat Breed,Pattern,10,1,Intact Male,276,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A786564,12,Austin,Stray,Normal,Dog,Intact Female,730,Working Dog Breed,White,1,12,Spayed Female,745,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A772224,5,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Black,5,3,Neutered Male,70,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A758229,9,Del Valle,Stray,Nursing,Dog,Intact Female,1,Retriever Dog Breed,Brown series,11,9,Spayed Female,77,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A737537,10,Austin,Stray,Normal,Dog,Intact Male,335,Terrier Dog Breed,Bi color,11,12,Neutered Male,346,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678881,5,Austin,Stray,Injured,Dog,Intact Male,546,Herding Dog Breed,Bi color,7,11,Neutered Male,607,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A760796,10,Del Valle,Stray,Normal,Cat,Unknown,365,Domestic Cat Breed,Black,10,10,Unknown,368,0.0,1.1363636363636365,Healthy,Unknown,Not Wild Mammals,2-3 days
+A674955,3,Austin,Stray,Normal,Dog,Intact Female,334,Terrier Dog Breed,Bi color,3,4,Intact Female,342,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A752146,6,Travis,Stray,Normal,Cat,Intact Male,76,Domestic Cat Breed,Black,6,4,Intact Male,82,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A696877,2,Pflugerville,Stray,Normal,Dog,Neutered Male,730,Retriever Dog Breed,Bi color,3,2,Neutered Male,756,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A716580,11,Travis,Stray,Normal,Dog,Intact Female,365,Herding Dog Breed,Black,12,11,Spayed Female,400,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685515,8,Austin,Stray,Normal,Dog,Intact Female,1826,Toy Breed,Bi color,8,8,Spayed Female,1839,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769995,4,Austin,Stray,Normal,Dog,Intact Male,0,Terrier Dog Breed,Brown series,6,4,Neutered Male,63,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A804332,9,Austin,Stray,Normal,Dog,Intact Female,730,Retriever Dog Breed,Bi color,9,9,Spayed Female,747,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A754900,7,Austin,Stray,Normal,Dog,Spayed Female,1826,Hound Dong Breed,Pattern,8,7,Spayed Female,1835,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A703918,5,Austin,Owner Surrender,Normal,Cat,Intact Female,54,Domestic Cat Breed,Pattern,6,4,Intact Female,63,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A804748,9,Austin,Wildlife,Normal,Other,Unknown,730,Bat,Brown series,9,9,Unknown,730,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A723157,3,Austin,Stray,Normal,Dog,Intact Female,365,Hound Dong Breed,Red series,3,3,Spayed Female,367,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A690844,10,Austin,Stray,Injured,Cat,Spayed Female,2191,Domestic Cat Breed,Pattern,10,10,Spayed Female,2191,0.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A786805,1,Austin,Stray,Normal,Dog,Intact Male,1826,Toy Breed,Brown series,2,1,Neutered Male,1858,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A786056,12,Travis,Stray,Sick,Dog,Intact Male,3652,Working Dog Breed,Bi color,12,12,Intact Male,3656,0.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A800782,7,Austin,Stray,Normal,Dog,Intact Male,48,Retriever Dog Breed,Bi color,8,6,Neutered Male,57,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699601,3,Austin,Public Assist,Normal,Dog,Spayed Female,730,Hound Dong Breed,Bi color,3,3,Spayed Female,730,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A702301,5,Austin,Stray,Injured,Cat,Intact Female,4017,Domestic Cat Breed,Black,5,5,Intact Female,4017,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A764807,7,Austin,Stray,Normal,Dog,Spayed Female,624,Retriever Dog Breed,Brown series,7,10,Spayed Female,624,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A755233,7,Austin,Stray,Normal,Cat,Intact Female,33,Domestic Cat Breed,Blue series,8,6,Intact Female,41,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A696636,6,Austin,Owner Surrender,Normal,Dog,Spayed Female,1576,Toy Breed,Bi color,6,2,Spayed Female,1578,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A715707,11,Austin,Owner Surrender,Normal,Other,Intact Female,365,Pig,Brown series,11,11,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A730771,7,Austin,Stray,Normal,Cat,Unknown,4,Domestic Cat Breed,Pattern,7,7,Unknown,4,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A783818,11,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Black,11,11,Unknown,365,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A719785,1,Austin,Stray,Injured,Cat,Intact Male,730,Shorthair Cat Breed,Pattern,2,1,Intact Male,752,1.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A765863,1,Austin,Stray,Normal,Dog,Intact Male,731,Retriever Dog Breed,Bi color,2,1,Neutered Male,740,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769999,4,Austin,Public Assist,Sick,Dog,Intact Female,59,Retriever Dog Breed,White,4,2,Intact Female,59,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A754129,9,Austin,Owner Surrender,Normal,Cat,Spayed Female,2975,Domestic Cat Breed,Pattern,10,7,Spayed Female,3012,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702571,5,Austin,Stray,Normal,Dog,Neutered Male,1095,Toy Breed,Bi color,5,5,Neutered Male,1096,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A777489,7,Austin,Public Assist,Normal,Dog,Intact Male,2192,Terrier Dog Breed,Red series,8,7,Intact Male,2200,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A810007,12,Austin,Stray,Normal,Cat,Intact Female,61,Domestic Cat Breed,Pattern,12,10,Intact Female,82,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A676209,4,Austin,Stray,Normal,Dog,Intact Male,5,Retriever Dog Breed,Gold series,7,4,Neutered Male,114,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678042,5,Austin,Stray,Normal,Dog,Intact Female,2922,Working Dog Breed,Bi color,5,5,Spayed Female,2923,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A699929,10,Austin,Public Assist,Normal,Dog,Intact Male,1281,Toy Breed,Brown series,10,4,Neutered Male,1284,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A790787,3,Austin,Stray,Normal,Dog,Intact Female,730,Retriever Dog Breed,Bi color,4,3,Spayed Female,747,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A391379,11,Austin,Stray,Normal,Dog,Neutered Male,5826,Toy Breed,Bi color,11,12,Neutered Male,5828,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A683653,7,Austin,Stray,Normal,Dog,Intact Male,242,Retriever Dog Breed,Bi color,7,11,Neutered Male,254,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681283,6,Austin,Stray,Normal,Dog,Intact Male,92,Terrier Dog Breed,Brown series,6,3,Neutered Male,98,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A802815,8,Austin,Stray,Normal,Dog,Intact Female,92,Retriever Dog Breed,Brown series,8,5,Spayed Female,96,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678673,5,Austin,Stray,Normal,Cat,Unknown,35,Domestic Cat Breed,Black,5,4,Unknown,41,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A754032,7,Austin,Owner Surrender,Normal,Dog,Neutered Male,4748,Herding Dog Breed,Bi color,7,7,Neutered Male,4751,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A666319,10,Austin,Stray,Normal,Cat,Spayed Female,2922,Longhair Cat Breed,Pattern,11,10,Spayed Female,2932,1.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A759254,11,Outside Jurisdiction,Owner Surrender,Normal,Cat,Spayed Female,95,Shorthair Cat Breed,Pattern,11,7,Spayed Female,97,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A622877,9,Austin,Public Assist,Normal,Dog,Neutered Male,2796,Hound Dong Breed,Bi color,9,1,Neutered Male,2805,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681422,6,Travis,Stray,Normal,Dog,Intact Male,1096,Terrier Dog Breed,Bi color,3,6,Neutered Male,1378,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A684398,7,Austin,Stray,Normal,Dog,Intact Female,52,Toy Breed,Bi color,8,6,Spayed Female,73,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685911,8,Austin,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,Bi color,8,8,Intact Male,730,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A759118,9,Pflugerville,Stray,Normal,Cat,Intact Male,43,Domestic Cat Breed,Pattern,11,8,Neutered Male,92,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A695851,1,Austin,Stray,Injured,Bird,Unknown,730,Chicken,Bi color,1,1,Unknown,730,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A796624,6,Austin,Stray,Normal,Dog,Intact Male,365,Hound Dong Breed,Bi color,6,6,Neutered Male,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A465930,12,Austin,Stray,Normal,Dog,Spayed Female,4286,Retriever Dog Breed,Bi color,12,3,Spayed Female,4286,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A687253,9,Austin,Owner Surrender,Normal,Dog,Spayed Female,184,Toy Breed,Gray,9,3,Spayed Female,185,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A689315,10,Austin,Public Assist,Sick,Cat,Neutered Male,4014,Domestic Cat Breed,Bi color,10,10,Neutered Male,4021,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A746415,4,Austin,Stray,Normal,Cat,Intact Female,59,Domestic Cat Breed,Pattern,4,2,Spayed Female,63,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A701932,5,Austin,Stray,Normal,Dog,Intact Female,1826,Working Dog Breed,Black,5,5,Spayed Female,1836,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A675110,3,Austin,Stray,Normal,Dog,Intact Female,74,Terrier Dog Breed,Pattern,3,1,Spayed Female,78,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A757067,8,Austin,Wildlife,Injured,Bird,Unknown,731,Large bird,Black,8,8,Unknown,731,0.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A668315,12,Austin,Stray,Normal,Dog,Intact Female,1461,Toy Breed,Bi color,12,12,Intact Female,1472,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A697713,11,Austin,Stray,Normal,Dog,Neutered Male,623,Working Dog Breed,Bi color,11,2,Neutered Male,626,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A714061,10,Austin,Stray,Normal,Dog,Intact Male,365,Terrier Dog Breed,Bi color,10,10,Neutered Male,367,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A733086,8,Austin,Stray,Normal,Dog,Spayed Female,366,Retriever Dog Breed,Bi color,1,8,Spayed Female,519,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A705005,6,Austin,Stray,Normal,Dog,Intact Female,243,Terrier Dog Breed,Bi color,7,10,Spayed Female,264,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A729699,6,Austin,Stray,Normal,Cat,Intact Male,45,Domestic Cat Breed,Bi color,8,5,Neutered Male,103,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A680491,6,Austin,Stray,Normal,Cat,Intact Female,76,Domestic Cat Breed,Black,7,3,Spayed Female,116,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A675414,3,Del Valle,Stray,Normal,Cat,Intact Male,50,Shorthair Cat Breed,Blue series,4,2,Neutered Male,58,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775794,7,Travis,Stray,Injured,Dog,Intact Female,122,Retriever Dog Breed,Black,7,3,Spayed Female,147,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A801445,8,Travis,Stray,Normal,Cat,Intact Female,48,Domestic Cat Breed,Pattern,9,6,Spayed Female,99,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A679571,5,Pflugerville,Public Assist,Normal,Dog,Intact Male,2557,Hound Dong Breed,Red series,6,5,Intact Male,2566,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A754450,7,Austin,Stray,Normal,Cat,Intact Male,106,Domestic Cat Breed,Black,7,4,Intact Male,110,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A672181,2,Austin,Owner Surrender,Normal,Cat,Intact Male,123,Domestic Cat Breed,Black,2,10,Neutered Male,124,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A782976,10,Austin,Stray,Normal,Dog,Intact Female,730,Hound Dong Breed,Pattern,10,10,Intact Female,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A718636,1,Austin,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,Pattern,4,1,Neutered Male,819,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A751148,6,Austin,Owner Surrender,Normal,Cat,Intact Male,37,Domestic Cat Breed,Pattern,7,4,Neutered Male,66,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A787392,2,Travis,Owner Surrender,Normal,Dog,Neutered Male,763,Working Dog Breed,Bi color,2,1,Neutered Male,765,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A706433,6,Austin,Stray,Normal,Dog,Neutered Male,730,Retriever Dog Breed,Bi color,7,6,Neutered Male,741,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A735592,9,Austin,Wildlife,Injured,Other,Unknown,366,Mice predating small mammals,Bi color,9,9,Unknown,366,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A664977,10,Travis,Stray,Injured,Dog,Intact Male,1461,Terrier Dog Breed,Bi color,10,10,Intact Male,1461,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A806221,10,Austin,Owner Surrender,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,10,10,Spayed Female,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A795377,5,Travis,Stray,Normal,Dog,Intact Male,365,Terrier Dog Breed,Bi color,5,5,Intact Male,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A671759,1,Travis,Stray,Normal,Dog,Intact Female,365,Herding Dog Breed,Pattern,5,1,Spayed Female,486,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769740,4,Austin,Owner Surrender,Normal,Dog,Spayed Female,1643,Toy Breed,Bi color,4,10,Spayed Female,1660,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A337603,9,Austin,Stray,Normal,Dog,Spayed Female,5462,Hound Dong Breed,Bi color,9,9,Spayed Female,5463,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A727252,5,Austin,Stray,Normal,Dog,Intact Female,731,Toy Breed,Gold series,5,5,Spayed Female,740,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A708399,7,Austin,Stray,Normal,Cat,Intact Male,21,Domestic Cat Breed,Pattern,7,7,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A739669,12,Austin,Stray,Normal,Cat,Intact Female,366,Domestic Cat Breed,Pattern,12,12,Spayed Female,384,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A726334,5,Manor,Stray,Normal,Dog,Intact Female,41,Working Dog Breed,Bi color,6,3,Spayed Female,78,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A724014,4,Austin,Stray,Normal,Cat,Intact Female,5,Domestic Cat Breed,White,4,4,Intact Female,5,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A665490,10,Austin,Owner Surrender,Normal,Dog,Intact Male,247,Herding Dog Breed,Blue series,11,2,Neutered Male,257,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A794876,5,Austin,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,Bi color,5,5,Intact Male,732,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A741759,1,Leander,Stray,Injured,Cat,Intact Male,1096,Domestic Cat Breed,Pattern,2,1,Neutered Male,1130,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A778313,8,Austin,Stray,Normal,Dog,Intact Male,365,Toy Breed,White,8,8,Neutered Male,375,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A676959,4,Austin,Stray,Injured,Cat,Intact Female,151,Domestic Cat Breed,Pattern,4,11,Intact Female,158,1.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A753856,7,Austin,Stray,Normal,Dog,Intact Female,731,Retriever Dog Breed,Bi color,7,7,Spayed Female,736,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A809360,11,Austin,Stray,Normal,Dog,Intact Female,4,Hound Dong Breed,Brown series,11,11,Intact Female,6,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A783279,10,Pflugerville,Stray,Normal,Dog,Intact Male,183,Terrier Dog Breed,Bi color,1,4,Neutered Male,278,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A673077,2,Travis,Public Assist,Normal,Dog,Intact Female,1826,Toy Breed,White,5,2,Spayed Female,1917,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A732010,7,Austin,Stray,Sick,Cat,Intact Male,52,Domestic Cat Breed,Black,10,6,Neutered Male,124,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A799257,7,Austin,Stray,Normal,Cat,Intact Female,23,Domestic Cat Breed,Pattern,8,6,Spayed Female,72,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A585692,9,Travis,Stray,Injured,Dog,Spayed Female,1822,Retriever Dog Breed,Black,12,9,Spayed Female,1893,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A750973,6,Austin,Stray,Normal,Dog,Intact Male,151,Working Dog Breed,Black,6,1,Neutered Male,159,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A810593,12,Austin,Public Assist,Normal,Cat,Intact Male,334,Domestic Cat Breed,Pattern,1,1,Neutered Male,359,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778469,8,Austin,Stray,Normal,Dog,Intact Male,1461,Toy Breed,Bi color,8,8,Neutered Male,1465,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778760,8,Austin,Stray,Injured,Dog,Intact Female,243,Hound Dong Breed,Pattern,9,12,Spayed Female,281,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A667301,11,Austin,Stray,Normal,Dog,Neutered Male,731,Retriever Dog Breed,Gold series,11,11,Neutered Male,732,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A666550,11,Austin,Stray,Normal,Cat,Intact Female,1826,Domestic Cat Breed,Pattern,11,11,Intact Female,1831,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A742161,1,Austin,Wildlife,Normal,Other,Unknown,366,Bat,Brown series,1,1,Unknown,367,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A683445,7,Austin,Stray,Normal,Cat,Intact Male,37,Domestic Cat Breed,Pattern,7,6,Intact Male,44,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A667184,11,Austin,Stray,Normal,Dog,Intact Male,365,Herding Dog Breed,Bi color,12,11,Neutered Male,407,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A717743,12,Austin,Wildlife,Sick,Other,Unknown,365,Procyonidae,Bi color,12,12,Unknown,365,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A780158,9,Austin,Stray,Normal,Cat,Spayed Female,184,Domestic Cat Breed,Pattern,9,3,Spayed Female,188,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A805217,9,Austin,Stray,Normal,Other,Intact Female,365,Rabbit,Gray,10,9,Spayed Female,390,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A747295,4,Austin,Stray,Feral,Cat,Intact Female,3,Domestic Cat Breed,Bi color,5,4,Intact Female,32,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A715624,11,Austin,Stray,Normal,Dog,Intact Female,4748,Toy Breed,Brown series,11,11,Intact Female,4752,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A740079,12,Austin,Stray,Normal,Dog,Intact Male,1096,Herding Dog Breed,Bi color,12,12,Neutered Male,1112,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A795948,5,Austin,Stray,Normal,Dog,Intact Male,730,Toy Breed,Bi color,5,5,Neutered Male,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A797901,6,Austin,Stray,Normal,Cat,Intact Female,46,Domestic Cat Breed,Pattern,8,5,Intact Female,91,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A677941,5,Austin,Owner Surrender,Nursing,Cat,Intact Female,15,Domestic Cat Breed,Pattern,5,4,Intact Female,16,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A759615,10,Austin,Stray,Normal,Dog,Neutered Male,365,Working Dog Breed,Bi color,10,10,Neutered Male,366,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A763963,12,Austin,Stray,Normal,Dog,Intact Female,53,Terrier Dog Breed,Bi color,12,10,Intact Female,57,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A788749,2,Austin,Stray,Normal,Dog,Intact Male,730,Hound Dong Breed,Pattern,2,2,Neutered Male,740,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A605129,1,Austin,Owner Surrender,Normal,Dog,Neutered Male,2573,Retriever Dog Breed,Bi color,1,1,Neutered Male,2582,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778844,8,Austin,Stray,Normal,Cat,Intact Male,31,Domestic Cat Breed,Bi color,8,7,Intact Male,31,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A756697,8,Austin,Stray,Injured,Dog,Intact Female,4279,Terrier Dog Breed,Bi color,1,12,Spayed Female,4429,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A668300,12,Austin,Stray,Sick,Cat,Neutered Male,2918,Domestic Cat Breed,Bi color,12,12,Neutered Male,2922,1.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A687824,9,Austin,Stray,Normal,Dog,Intact Female,730,Working Dog Breed,Bi color,9,9,Spayed Female,733,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A690406,10,Austin,Stray,Sick,Cat,Neutered Male,1461,Domestic Cat Breed,Black,10,10,Neutered Male,1462,1.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A745408,3,Travis,Stray,Normal,Dog,Intact Female,34,Retriever Dog Breed,Bi color,4,2,Spayed Female,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702397,5,Austin,Stray,Normal,Cat,Intact Female,52,Domestic Cat Breed,Pattern,5,3,Intact Female,64,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A786866,1,Austin,Stray,Normal,Dog,Intact Male,1826,Toy Breed,Brown series,1,1,Neutered Male,1832,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A765669,1,Austin,Stray,Normal,Other,Intact Female,365,Rabbit,Brown series,3,1,Spayed Female,406,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A752659,6,Austin,Stray,Normal,Cat,Intact Female,31,Domestic Cat Breed,Pattern,6,5,Intact Female,34,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A699675,5,Austin,Stray,Normal,Dog,Neutered Male,2246,Hound Dong Breed,Black,11,3,Neutered Male,2435,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A676904,4,Outside Jurisdiction,Stray,Nursing,Cat,Intact Male,7,Domestic Cat Breed,Pattern,4,4,Intact Male,7,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A705279,6,Austin,Stray,Normal,Cat,Intact Female,28,Domestic Cat Breed,Pattern,9,5,Spayed Female,106,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A723515,4,Austin,Stray,Normal,Dog,Intact Female,366,Toy Breed,Bi color,4,4,Spayed Female,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A680634,6,Austin,Stray,Normal,Cat,Intact Male,68,Domestic Cat Breed,Pattern,6,3,Neutered Male,74,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A771618,5,Manor,Stray,Normal,Dog,Intact Female,730,Terrier Dog Breed,Bi color,6,5,Spayed Female,760,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A707912,7,Austin,Stray,Normal,Dog,Spayed Female,2922,Toy Breed,Bi color,7,7,Spayed Female,2925,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A778701,8,Austin,Public Assist,Normal,Dog,Neutered Male,2191,Working Dog Breed,White,8,8,Neutered Male,2199,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A788194,1,Travis,Stray,Sick,Dog,Intact Female,116,Retriever Dog Breed,Bi color,5,10,Spayed Female,223,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A769216,4,Austin,Stray,Normal,Dog,Intact Female,730,Toy Breed,Pattern,4,4,Spayed Female,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A728366,6,Austin,Stray,Normal,Dog,Intact Male,1461,Herding Dog Breed,Bi color,6,6,Neutered Male,1483,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A696714,2,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Pattern,2,2,Spayed Female,372,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A666496,11,Austin,Stray,Normal,Cat,Neutered Male,365,Domestic Cat Breed,Pattern,11,11,Neutered Male,365,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A745820,3,Austin,Stray,Normal,Dog,Intact Male,149,Toy Breed,Bi color,3,10,Intact Male,153,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A797184,6,Austin,Stray,Normal,Cat,Unknown,730,Domestic Cat Breed,Bi color,6,6,Unknown,734,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A714162,10,Caldwell,Stray,Normal,Dog,Intact Male,48,Toy Breed,Pattern,11,9,Neutered Male,85,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A802968,8,Austin,Owner Surrender,Normal,Dog,Intact Male,302,Retriever Dog Breed,Bi color,8,10,Neutered Male,304,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A773980,6,Austin,Stray,Normal,Dog,Intact Male,365,Hound Dong Breed,Bi color,6,6,Neutered Male,374,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A779145,8,Austin,Stray,Normal,Dog,Intact Male,92,Retriever Dog Breed,Bi color,9,5,Neutered Male,101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A754988,7,Austin,Owner Surrender,Normal,Dog,Intact Male,61,Working Dog Breed,Bi color,7,5,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A731584,7,Austin,Stray,Nursing,Dog,Intact Male,1,Hound Dong Breed,Black,8,7,Intact Male,32,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A618218,2,Travis,Public Assist,Normal,Dog,Spayed Female,2029,Hound Dong Breed,Brown series,2,7,Spayed Female,2035,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702291,5,Austin,Owner Surrender,Normal,Cat,Neutered Male,2922,Domestic Cat Breed,Pattern,5,5,Neutered Male,2924,1.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A782741,10,Austin,Stray,Normal,Dog,Intact Female,730,Working Dog Breed,Pattern,10,10,Intact Female,736,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A686637,8,Austin,Stray,Normal,Cat,Intact Male,31,Domestic Cat Breed,Bi color,10,7,Neutered Male,70,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A779676,9,Manor,Public Assist,Normal,Bird,Unknown,365,Chicken,Brown series,9,9,Unknown,383,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A788592,2,Travis,Stray,Normal,Dog,Neutered Male,1584,Working Dog Breed,Bi color,5,10,Neutered Male,1683,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A714966,10,Austin,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Bi color,11,9,Intact Male,43,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A697768,2,Austin,Stray,Normal,Dog,Intact Female,365,Retriever Dog Breed,Black,2,2,Intact Female,365,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A709245,8,Austin,Stray,Normal,Dog,Intact Female,22,Herding Dog Breed,Pattern,9,7,Spayed Female,58,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A782019,10,Austin,Stray,Normal,Dog,Intact Female,183,Retriever Dog Breed,Pattern,3,4,Spayed Female,341,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A583691,10,Austin,Stray,Normal,Dog,Neutered Male,3339,Retriever Dog Breed,Black,10,9,Neutered Male,3341,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A763930,12,Austin,Stray,Sick,Dog,Unknown,44,Terrier Dog Breed,Bi color,12,11,Unknown,44,0.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A691637,11,Austin,Stray,Normal,Dog,Intact Male,549,Herding Dog Breed,Blue series,11,5,Neutered Male,567,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A725073,4,Austin,Stray,Normal,Dog,Intact Female,309,Terrier Dog Breed,Bi color,4,6,Spayed Female,312,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A673705,2,Austin,Stray,Normal,Dog,Neutered Male,731,Hound Dong Breed,Brown series,3,2,Neutered Male,738,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A756055,8,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Pattern,8,6,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A760475,10,Austin,Stray,Normal,Cat,Intact Female,54,Domestic Cat Breed,Bi color,11,8,Intact Female,73,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A707134,7,Austin,Stray,Normal,Cat,Intact Male,91,Domestic Cat Breed,Pattern,7,4,Intact Male,92,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A774081,6,Manor,Stray,Normal,Dog,Intact Female,730,Hound Dong Breed,Pattern,7,6,Spayed Female,779,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A697571,2,Austin,Public Assist,Injured,Dog,Intact Female,337,Terrier Dog Breed,Bi color,2,3,Intact Female,340,1.0,1.1363636363636365,Unhealthy,Intact,Not Wild Mammals,2-3 days
+A798455,6,Austin,Stray,Normal,Cat,Intact Male,38,Domestic Cat Breed,Pattern,8,5,Intact Male,82,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A788252,1,Austin,Stray,Normal,Livestock,Unknown,122,Pig,Gray,1,9,Unknown,122,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A742086,1,Austin,Stray,Injured,Cat,Intact Male,122,Domestic Cat Breed,Bi color,1,9,Neutered Male,128,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A651543,3,Austin,Owner Surrender,Normal,Dog,Neutered Male,384,Toy Breed,Bi color,3,2,Neutered Male,394,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A789142,2,Austin,Stray,Normal,Cat,Intact Female,31,Domestic Cat Breed,Pattern,4,1,Spayed Female,91,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A757485,9,Austin,Owner Surrender,Normal,Cat,Intact Male,107,Domestic Cat Breed,Pattern,9,5,Neutered Male,114,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A703179,5,Austin,Stray,Injured,Cat,Intact Male,52,Domestic Cat Breed,Bi color,5,3,Intact Male,52,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A579961,11,Austin,Stray,Normal,Dog,Neutered Male,3047,Toy Breed,Brown series,11,7,Neutered Male,3050,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A738334,12,Pflugerville,Public Assist,Normal,Dog,Neutered Male,779,Retriever Dog Breed,Bi color,1,11,Neutered Male,789,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A734307,9,Austin,Public Assist,Normal,Dog,Spayed Female,1096,Toy Breed,Brown series,9,9,Spayed Female,1101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A675435,3,Austin,Owner Surrender,Normal,Dog,Spayed Female,424,Toy Breed,Black,3,1,Spayed Female,427,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A737251,10,Austin,Stray,Normal,Dog,Spayed Female,366,Herding Dog Breed,Bi color,11,10,Spayed Female,385,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A687496,9,Travis,Stray,Normal,Cat,Unknown,3,Domestic Cat Breed,Bi color,9,9,Unknown,3,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A760457,10,Austin,Stray,Other,Dog,Neutered Male,3653,Terrier Dog Breed,Bi color,11,10,Neutered Male,3696,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A798695,6,Pflugerville,Stray,Normal,Cat,Intact Male,35,Domestic Cat Breed,Bi color,8,5,Neutered Male,84,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A750197,5,Austin,Owner Surrender,Normal,Cat,Neutered Male,1096,Domestic Cat Breed,Pattern,5,5,Neutered Male,1101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A742326,4,Austin,Stray,Normal,Dog,Spayed Female,2145,Retriever Dog Breed,Black,5,5,Spayed Female,2183,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A727255,5,Austin,Public Assist,Normal,Cat,Neutered Male,2557,Domestic Cat Breed,Pattern,5,5,Neutered Male,2564,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A786151,12,Austin,Wildlife,Injured,Other,Unknown,730,Mice predating small mammals,Gray,12,12,Unknown,730,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A666409,10,Austin,Stray,Normal,Dog,Intact Male,365,Toy Breed,White,11,10,Neutered Male,371,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A669817,12,Austin,Stray,Normal,Cat,Intact Male,39,Domestic Cat Breed,Bi color,2,11,Intact Male,83,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A770808,5,Austin,Stray,Normal,Dog,Intact Male,750,Hound Dong Breed,Red series,5,4,Neutered Male,757,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A690431,10,Austin,Stray,Normal,Cat,Intact Female,22,Domestic Cat Breed,Black,8,9,Spayed Female,1056,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A763205,12,Austin,Stray,Normal,Dog,Intact Male,54,Working Dog Breed,Bi color,12,10,Neutered Male,60,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A700709,4,Travis,Stray,Normal,Dog,Intact Male,1095,Hound Dong Breed,Pattern,4,4,Neutered Male,1099,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A738343,11,Austin,Stray,Normal,Cat,Intact Female,46,Domestic Cat Breed,Pattern,11,9,Intact Female,54,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A725375,4,Travis,Stray,Normal,Dog,Neutered Male,943,Retriever Dog Breed,Bi color,5,9,Neutered Male,968,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A771761,5,Austin,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Bi color,5,5,Intact Female,733,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A750584,5,Austin,Stray,Normal,Cat,Intact Male,39,Domestic Cat Breed,Bi color,6,4,Intact Male,42,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A746905,4,Austin,Stray,Injured,Cat,Intact Male,732,Domestic Cat Breed,Pattern,4,4,Intact Male,732,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A778042,10,Austin,Owner Surrender,Normal,Cat,Spayed Female,69,Domestic Cat Breed,Pattern,10,8,Spayed Female,70,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A768981,3,Austin,Stray,Normal,Dog,Intact Female,151,Terrier Dog Breed,Bi color,4,10,Spayed Female,155,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A775105,6,Sunset Valley,Stray,Normal,Dog,Intact Female,365,Retriever Dog Breed,Pattern,7,6,Spayed Female,372,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678199,5,Del Valle,Owner Surrender,Normal,Cat,Intact Male,181,Domestic Cat Breed,Black,6,11,Neutered Male,221,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A756052,8,Austin,Stray,Normal,Cat,Intact Female,122,Shorthair Cat Breed,Pattern,8,4,Intact Female,127,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A810959,12,Austin,Owner Surrender,Normal,Dog,Spayed Female,883,Herding Dog Breed,Gold series,12,7,Spayed Female,890,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A777175,7,Austin,Stray,Normal,Cat,Intact Male,76,Domestic Cat Breed,Bi color,8,5,Neutered Male,101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A524150,1,Austin,Stray,Normal,Dog,Spayed Female,3021,Hound Dong Breed,Pattern,1,10,Spayed Female,3022,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A803394,8,Austin,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,Bi color,10,8,Neutered Male,788,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A696292,9,Outside Jurisdiction,Stray,Normal,Dog,Neutered Male,2234,Terrier Dog Breed,Bi color,9,8,Neutered Male,2245,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A786510,12,Austin,Stray,Normal,Cat,Intact Female,86,Domestic Cat Breed,Pattern,12,10,Spayed Female,91,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A667401,11,Austin,Stray,Normal,Dog,Intact Female,549,Toy Breed,Brown series,11,5,Spayed Female,559,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A791528,3,Travis,Stray,Normal,Dog,Neutered Male,2191,Retriever Dog Breed,White,3,3,Neutered Male,2191,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A723972,4,Austin,Stray,Normal,Dog,Intact Female,366,Toy Breed,Bi color,4,4,Spayed Female,373,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A683514,7,Austin,Stray,Sick,Cat,Unknown,91,Domestic Cat Breed,Pattern,7,4,Unknown,91,0.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A795886,5,Austin,Stray,Normal,Cat,Intact Female,27,Domestic Cat Breed,Pattern,7,4,Spayed Female,82,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A793365,4,Austin,Stray,Normal,Cat,Spayed Female,730,Domestic Cat Breed,Pattern,5,4,Spayed Female,740,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A733865,8,Travis,Public Assist,Normal,Dog,Intact Male,1461,Toy Breed,Bi color,9,8,Neutered Male,1472,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A803099,8,Austin,Owner Surrender,Normal,Cat,Intact Female,122,Domestic Cat Breed,Pattern,9,4,Spayed Female,131,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A679779,5,Austin,Stray,Normal,Cat,Intact Male,28,Shorthair Cat Breed,Pattern,5,4,Intact Male,29,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A756427,8,Austin,Owner Surrender,Normal,Dog,Intact Male,61,Terrier Dog Breed,Pattern,8,6,Intact Male,61,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A665179,12,Austin,Owner Surrender,Normal,Dog,Spayed Female,430,Herding Dog Breed,Bi color,12,10,Spayed Female,436,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A707504,7,Austin,Stray,Normal,Cat,Intact Male,19,Domestic Cat Breed,Pattern,7,6,Intact Male,19,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A675464,3,Austin,Wildlife,Sick,Other,Intact Male,365,Mice predating small mammals,Bi color,4,3,Intact Male,380,1.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A707245,7,Travis,Stray,Normal,Dog,Intact Female,67,Retriever Dog Breed,Brown series,7,5,Intact Female,72,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A790745,3,Austin,Stray,Normal,Dog,Intact Female,2922,Working Dog Breed,Bi color,3,3,Intact Female,2923,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A792855,4,Austin,Owner Surrender,Injured,Dog,Intact Male,365,Terrier Dog Breed,Brown series,7,4,Neutered Male,443,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A648134,11,Austin,Owner Surrender,Normal,Dog,Spayed Female,571,Retriever Dog Breed,Bi color,11,4,Spayed Female,578,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A716196,11,Austin,Stray,Normal,Cat,Intact Female,38,Domestic Cat Breed,Pattern,12,10,Spayed Female,73,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A726701,5,Travis,Stray,Aged,Dog,Intact Male,5479,Toy Breed,Bi color,6,5,Intact Male,5498,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A751799,6,Austin,Stray,Nursing,Cat,Intact Female,1,Domestic Cat Breed,Bi color,6,6,Intact Female,1,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A675938,4,Pflugerville,Stray,Normal,Cat,Intact Female,3,Domestic Cat Breed,Pattern,4,3,Intact Female,3,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A799936,7,Austin,Stray,Sick,Cat,Intact Male,30,Domestic Cat Breed,Bi color,8,6,Intact Male,60,0.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A741682,1,Austin,Stray,Normal,Dog,Intact Female,366,Herding Dog Breed,Bi color,1,1,Spayed Female,383,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A697461,2,Lakeway,Owner Surrender,Normal,Cat,Intact Female,1096,Domestic Cat Breed,Pattern,4,2,Spayed Female,1135,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A749394,5,Travis,Stray,Normal,Dog,Intact Male,61,Working Dog Breed,Bi color,5,3,Intact Male,70,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A769708,4,Austin,Stray,Normal,Dog,Intact Female,50,Terrier Dog Breed,Pattern,4,2,Spayed Female,60,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A746949,4,Austin,Stray,Normal,Dog,Intact Male,365,Toy Breed,Bi color,4,4,Neutered Male,370,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A809361,11,Austin,Stray,Normal,Dog,Intact Female,4,Hound Dong Breed,Brown series,11,11,Intact Female,6,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A749410,6,Austin,Stray,Normal,Dog,Intact Male,281,Terrier Dog Breed,Bi color,7,9,Neutered Male,314,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A564168,6,Austin,Stray,Normal,Cat,Spayed Female,3624,Domestic Cat Breed,Pattern,7,7,Spayed Female,3655,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A667349,11,Austin,Stray,Normal,Other,Unknown,31,Rabbit,Brown series,11,10,Unknown,32,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A763710,12,Austin,Stray,Normal,Cat,Intact Female,183,Domestic Cat Breed,Blue series,12,6,Intact Female,187,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A705088,6,Austin,Stray,Normal,Dog,Intact Male,1095,Hound Dong Breed,Brown series,6,6,Neutered Male,1099,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A796461,6,Austin,Stray,Normal,Cat,Intact Female,31,Domestic Cat Breed,Pattern,12,5,Spayed Female,232,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A766452,2,Austin,Owner Surrender,Normal,Cat,Neutered Male,1096,Domestic Cat Breed,Pattern,2,2,Neutered Male,1099,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A701696,9,Outside Jurisdiction,Owner Surrender,Normal,Dog,Spayed Female,1974,Terrier Dog Breed,Bi color,10,5,Spayed Female,1982,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A708062,7,Austin,Owner Surrender,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,8,7,Intact Female,746,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A681232,6,Austin,Stray,Normal,Dog,Intact Female,730,Herding Dog Breed,Bi color,6,6,Spayed Female,736,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A737805,11,Austin,Stray,Normal,Dog,Intact Male,731,Toy Breed,White,11,11,Neutered Male,735,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A751981,6,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Pattern,6,4,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A705892,6,Manor,Owner Surrender,Normal,Cat,Intact Male,69,Domestic Cat Breed,Pattern,6,4,Neutered Male,76,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A679294,5,Austin,Public Assist,Normal,Dog,Intact Male,733,Herding Dog Breed,Blue series,5,5,Intact Male,739,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A769195,4,Austin,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,White,6,4,Neutered Male,794,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A713915,10,Austin,Stray,Normal,Other,Unknown,365,Reptilia,Brown series,10,10,Unknown,367,0.0,1.1363636363636365,Healthy,Unknown,Not Wild Mammals,2-3 days
+A706011,6,Austin,Stray,Normal,Dog,Intact Female,1826,Retriever Dog Breed,Black,7,6,Spayed Female,1839,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A686878,8,Austin,Stray,Normal,Cat,Intact Male,4,Domestic Cat Breed,Black,8,8,Intact Male,4,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A728145,5,Austin,Stray,Normal,Cat,Intact Male,51,Domestic Cat Breed,Black,8,4,Neutered Male,138,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A682749,7,Travis,Public Assist,Other,Cat,Intact Male,35,Domestic Cat Breed,Pattern,8,5,Neutered Male,70,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A755739,10,Austin,Owner Surrender,Normal,Cat,Spayed Female,249,Domestic Cat Breed,Pattern,10,2,Spayed Female,262,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A701223,4,Austin,Stray,Normal,Cat,Intact Female,22,Domestic Cat Breed,Bi color,4,4,Intact Female,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A749787,5,Austin,Stray,Normal,Dog,Intact Female,22,Retriever Dog Breed,Bi color,5,4,Intact Female,29,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A669868,12,Austin,Wildlife,Normal,Other,Unknown,30,Bat,Bi color,12,11,Unknown,30,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A710384,8,Austin,Stray,Normal,Dog,Intact Female,243,Herding Dog Breed,Pattern,8,12,Intact Female,248,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A754751,7,Austin,Stray,Normal,Cat,Unknown,91,Domestic Cat Breed,Blue series,7,4,Unknown,95,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A773546,6,Austin,Stray,Normal,Dog,Intact Male,364,Terrier Dog Breed,Bi color,6,6,Neutered Male,368,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A770125,4,Austin,Stray,Normal,Cat,Intact Male,59,Domestic Cat Breed,Pattern,4,2,Neutered Male,63,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A799677,7,Austin,Public Assist,Normal,Dog,Intact Female,198,Terrier Dog Breed,Black,7,12,Intact Female,205,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A755731,8,Austin,Stray,Normal,Cat,Intact Male,91,Domestic Cat Breed,Pattern,8,5,Neutered Male,101,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A736206,10,Austin,Stray,Normal,Cat,Unknown,4,Domestic Cat Breed,Bi color,10,10,Unknown,4,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A715106,10,Austin,Owner Surrender,Normal,Cat,Spayed Female,1461,Domestic Cat Breed,Bi color,11,10,Spayed Female,1472,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778118,10,Austin,Stray,Injured,Dog,Neutered Male,1169,Working Dog Breed,Bi color,10,8,Neutered Male,1169,0.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A759646,10,Austin,Stray,Normal,Dog,Intact Female,1096,Working Dog Breed,Bi color,10,10,Spayed Female,1100,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A668317,12,Austin,Stray,Normal,Cat,Intact Male,83,Domestic Cat Breed,Black,2,9,Neutered Male,154,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A804301,9,Austin,Stray,Normal,Cat,Unknown,31,Domestic Cat Breed,Pattern,9,8,Unknown,31,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A729711,6,Austin,Stray,Normal,Cat,Intact Male,53,Domestic Cat Breed,Pattern,6,4,Neutered Male,61,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A678057,5,Austin,Euthanasia Request,Aged,Dog,Spayed Female,5479,Working Dog Breed,Bi color,5,5,Spayed Female,5480,1.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A689133,9,Austin,Stray,Normal,Cat,Intact Male,62,Domestic Cat Breed,Pattern,10,7,Neutered Male,75,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A683557,7,Austin,Wildlife,Normal,Other,Unknown,30,Bat,Bi color,7,6,Unknown,31,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A796521,6,Austin,Stray,Normal,Dog,Intact Male,61,Working Dog Breed,Pattern,6,4,Neutered Male,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702913,5,Del Valle,Owner Surrender,Normal,Dog,Intact Female,83,Working Dog Breed,Red series,5,2,Spayed Female,89,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A723017,3,Austin,Stray,Normal,Dog,Intact Male,366,Terrier Dog Breed,Bi color,4,3,Neutered Male,378,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A711251,9,Austin,Stray,Sick,Cat,Intact Female,27,Domestic Cat Breed,Pattern,1,8,Intact Female,157,1.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A735367,9,Austin,Stray,Normal,Dog,Neutered Male,5114,Terrier Dog Breed,Bi color,9,9,Neutered Male,5114,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A684486,7,Austin,Owner Surrender,Normal,Cat,Intact Female,106,Domestic Cat Breed,Bi color,7,4,Spayed Female,109,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A802904,8,Austin,Stray,Normal,Dog,Neutered Male,2555,Working Dog Breed,Bi color,8,8,Neutered Male,2556,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A762447,11,Austin,Owner Surrender,Normal,Dog,Spayed Female,731,Working Dog Breed,Bi color,11,11,Spayed Female,737,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A726695,5,Austin,Euthanasia Request,Normal,Cat,Intact Female,1827,Domestic Cat Breed,Pattern,6,5,Spayed Female,1871,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A732792,8,Austin,Stray,Normal,Cat,Intact Female,66,Domestic Cat Breed,Pattern,12,6,Spayed Female,1298,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A767669,3,Del Valle,Stray,Normal,Dog,Intact Male,546,Terrier Dog Breed,Bi color,4,9,Neutered Male,600,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A730956,7,Travis,Stray,Normal,Cat,Intact Male,24,Domestic Cat Breed,Pattern,8,6,Neutered Male,70,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A749432,5,Austin,Owner Surrender,Normal,Dog,Neutered Male,1096,Toy Breed,Bi color,5,5,Neutered Male,1098,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A797292,6,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Black,6,5,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A665957,10,Austin,Stray,Sick,Dog,Intact Male,93,Terrier Dog Breed,Bi color,10,7,Intact Male,93,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A761149,10,Travis,Stray,Normal,Dog,Spayed Female,1675,Working Dog Breed,Bi color,11,3,Spayed Female,1678,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A793392,4,Austin,Stray,Normal,Cat,Intact Male,2,Domestic Cat Breed,Bi color,4,4,Intact Male,2,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A460458,5,Travis,Owner Surrender,Normal,Dog,Neutered Male,3687,Toy Breed,Bi color,6,4,Neutered Male,3712,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A805077,9,Manor,Stray,Normal,Cat,Intact Female,62,Domestic Cat Breed,Pattern,10,7,Spayed Female,84,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769108,3,Austin,Stray,Normal,Cat,Unknown,7,Domestic Cat Breed,Pattern,3,3,Unknown,7,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A707067,7,Austin,Stray,Normal,Cat,Intact Female,1461,Domestic Cat Breed,Bi color,7,7,Intact Female,1462,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A802178,8,Manor,Stray,Nursing,Cat,Intact Female,22,Domestic Cat Breed,Black,10,7,Spayed Female,71,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A778484,8,Austin,Stray,Normal,Cat,Intact Female,44,Domestic Cat Breed,Pattern,1,7,Spayed Female,204,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A773049,5,Austin,Public Assist,Normal,Dog,Neutered Male,426,Hound Dong Breed,Brown series,7,3,Neutered Male,481,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A666479,11,Travis,Stray,Normal,Cat,Intact Female,22,Domestic Cat Breed,Bi color,1,10,Spayed Female,88,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A772488,5,Austin,Stray,Normal,Dog,Intact Male,2191,Terrier Dog Breed,Blue series,5,5,Neutered Male,2201,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A586045,12,Austin,Stray,Normal,Dog,Spayed Female,2515,Working Dog Breed,Pattern,12,2,Spayed Female,2516,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A755147,7,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Pattern,7,7,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A767855,3,Austin,Stray,Normal,Dog,Intact Female,730,Terrier Dog Breed,Bi color,3,3,Intact Female,730,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A724564,4,Austin,Stray,Normal,Cat,Intact Male,43,Domestic Cat Breed,Pattern,5,3,Neutered Male,75,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A679931,5,Austin,Stray,Normal,Cat,Intact Female,37,Domestic Cat Breed,Bi color,7,4,Spayed Female,82,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A710295,12,Austin,Stray,Normal,Dog,Neutered Male,481,Terrier Dog Breed,Bi color,12,8,Neutered Male,491,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A812705,1,Austin,Public Assist,Normal,Dog,Neutered Male,730,Toy Breed,Gray,1,1,Neutered Male,734,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A743643,2,Austin,Wildlife,Normal,Other,Unknown,366,Bat,Brown series,2,2,Unknown,367,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A768032,3,Austin,Stray,Normal,Other,Intact Female,365,Rabbit,Bi color,4,3,Intact Female,394,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A701307,4,Austin,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,5,4,Spayed Female,759,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A810320,12,Austin,Stray,Normal,Dog,Spayed Female,1095,Toy Breed,Bi color,12,12,Spayed Female,1100,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A796889,6,Austin,Stray,Normal,Cat,Intact Female,31,Domestic Cat Breed,Pattern,6,5,Intact Female,34,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A790566,3,Travis,Stray,Normal,Dog,Intact Male,74,Terrier Dog Breed,Bi color,3,12,Intact Male,77,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A694252,12,Austin,Owner Surrender,Injured,Cat,Neutered Male,548,Domestic Cat Breed,Pattern,12,6,Neutered Male,554,0.0,0.15552099533437014,Unhealthy,Sterilized,Not Wild Mammals,more than 3 days
+A772495,5,Austin,Stray,Normal,Cat,Intact Male,33,Domestic Cat Breed,Pattern,6,4,Neutered Male,67,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A675305,3,Austin,Stray,Sick,Cat,Unknown,730,Domestic Cat Breed,Pattern,3,3,Unknown,730,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A698286,3,Austin,Wildlife,Normal,Other,Unknown,730,Bat,Brown series,3,3,Unknown,730,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A682431,6,Austin,Stray,Normal,Cat,Unknown,120,Domestic Cat Breed,Pattern,6,2,Unknown,120,1.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A797236,6,Austin,Stray,Injured,Cat,Intact Female,92,Domestic Cat Breed,Pattern,6,3,Intact Female,99,1.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A745984,3,Austin,Public Assist,Normal,Dog,Neutered Male,734,Terrier Dog Breed,Bi color,4,3,Neutered Male,737,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A752790,6,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Pattern,7,6,Intact Male,27,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A743391,2,Austin,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Pattern,3,1,Neutered Male,68,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A699105,3,Austin,Stray,Normal,Dog,Intact Female,77,Terrier Dog Breed,Bi color,3,1,Spayed Female,81,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A681730,7,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,391,Working Dog Breed,Bi color,7,6,Neutered Male,401,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A691387,11,Austin,Stray,Normal,Dog,Intact Female,75,Working Dog Breed,Bi color,11,8,Intact Female,79,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A670962,1,Austin,Owner Surrender,Normal,Cat,Intact Female,365,Domestic Cat Breed,Pattern,2,1,Spayed Female,403,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A682618,6,Travis,Euthanasia Request,Normal,Dog,Neutered Male,2008,Herding Dog Breed,Blue series,6,12,Neutered Male,2008,1.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A704904,6,Pflugerville,Stray,Normal,Cat,Intact Male,22,Domestic Cat Breed,Pattern,6,5,Intact Male,22,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A721222,2,Austin,Owner Surrender,Normal,Cat,Spayed Female,1095,Domestic Cat Breed,Pattern,3,2,Spayed Female,1104,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A677100,4,Travis,Owner Surrender,Normal,Dog,Intact Male,700,Toy Breed,Bi color,5,5,Neutered Male,721,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A755379,8,Austin,Owner Surrender,Normal,Dog,Spayed Female,388,Retriever Dog Breed,Bi color,8,8,Spayed Female,392,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A623497,6,Austin,Stray,Normal,Cat,Neutered Male,796,Domestic Cat Breed,Black,6,3,Neutered Male,809,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A686100,8,Austin,Stray,Normal,Cat,Intact Female,61,Domestic Cat Breed,Pattern,8,6,Spayed Female,65,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A801808,8,Austin,Stray,Normal,Cat,Intact Male,15,Domestic Cat Breed,Pattern,8,7,Intact Male,15,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A731879,7,Austin,Stray,Normal,Dog,Intact Female,1461,Herding Dog Breed,Blue series,8,7,Spayed Female,1467,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A708247,7,Austin,Stray,Aged,Dog,Intact Female,5478,Toy Breed,Gray,7,7,Intact Female,5479,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A765564,1,Austin,Stray,Normal,Dog,Intact Female,729,Terrier Dog Breed,Bi color,1,1,Intact Female,731,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A783351,10,Austin,Stray,Normal,Dog,Intact Male,183,Hound Dong Breed,Bi color,12,4,Neutered Male,232,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A803729,9,Austin,Stray,Normal,Cat,Intact Male,34,Domestic Cat Breed,Black,10,8,Neutered Male,69,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A729183,6,Austin,Stray,Normal,Cat,Intact Male,366,Domestic Cat Breed,Black,7,6,Neutered Male,383,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A702398,5,Austin,Stray,Normal,Cat,Intact Female,52,Domestic Cat Breed,Pattern,5,3,Intact Female,64,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A691834,11,Del Valle,Stray,Normal,Dog,Intact Female,365,Toy Breed,Bi color,11,11,Spayed Female,369,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A804121,9,Travis,Stray,Sick,Dog,Intact Male,365,Terrier Dog Breed,Brown series,9,9,Intact Male,378,0.0,0.15552099533437014,Unhealthy,Intact,Not Wild Mammals,more than 3 days
+A705585,6,Austin,Stray,Normal,Other,Unknown,365,Rabbit,Gray,7,6,Unknown,385,0.0,0.15552099533437014,Healthy,Unknown,Not Wild Mammals,more than 3 days
+A709382,8,Travis,Stray,Normal,Cat,Intact Male,122,Domestic Cat Breed,Black,8,4,Intact Male,123,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A797747,6,Austin,Stray,Normal,Cat,Intact Male,61,Domestic Cat Breed,Pattern,6,4,Intact Male,74,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A508549,4,Austin,Stray,Normal,Dog,Spayed Female,3496,Terrier Dog Breed,Bi color,4,9,Spayed Female,3496,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A799632,7,Travis,Stray,Normal,Cat,Intact Female,730,Domestic Cat Breed,Pattern,7,7,Intact Female,734,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A387083,2,Austin,Stray,Normal,Dog,Spayed Female,3353,Retriever Dog Breed,Brown series,2,11,Spayed Female,3364,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A808466,11,Austin,Stray,Injured,Cat,Intact Male,61,Domestic Cat Breed,Bi color,11,9,Intact Male,62,1.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A733758,8,Austin,Wildlife,Normal,Other,Unknown,366,Procyonidae,Gray,8,8,Unknown,368,1.0,1.1363636363636365,Healthy,Unknown,Not Wild Mammals,2-3 days
+A780865,9,Austin,Stray,Normal,Dog,Intact Male,153,Terrier Dog Breed,Black,10,4,Intact Male,171,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A716853,11,Austin,Stray,Normal,Dog,Intact Male,57,Retriever Dog Breed,Gold series,12,10,Intact Male,61,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A673384,2,Austin,Public Assist,Normal,Dog,Intact Male,4383,Toy Breed,Brown series,3,2,Neutered Male,4401,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A720583,2,Austin,Euthanasia Request,Normal,Cat,Intact Male,276,Domestic Cat Breed,Pattern,2,5,Intact Male,276,1.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A733920,8,Austin,Stray,Normal,Cat,Intact Female,122,Domestic Cat Breed,Pattern,8,4,Intact Female,123,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A629747,2,Austin,Owner Surrender,Normal,Dog,Neutered Male,986,Terrier Dog Breed,Pattern,8,6,Neutered Male,1149,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A785404,12,Austin,Stray,Normal,Cat,Intact Male,730,Domestic Cat Breed,Bi color,12,12,Intact Male,734,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A780602,9,Travis,Stray,Normal,Cat,Intact Female,62,Domestic Cat Breed,Pattern,10,7,Intact Female,81,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A669596,12,Austin,Owner Surrender,Normal,Cat,Intact Female,182,Domestic Cat Breed,Blue series,12,6,Intact Female,188,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A808147,11,Austin,Stray,Normal,Dog,Intact Male,1461,Terrier Dog Breed,Pattern,11,11,Neutered Male,1470,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A741189,12,Del Valle,Stray,Normal,Dog,Intact Female,61,Working Dog Breed,Bi color,1,10,Spayed Female,66,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A548112,10,Austin,Public Assist,Normal,Dog,Neutered Male,2149,Terrier Dog Breed,Bi color,11,11,Neutered Male,2167,1.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A749920,5,Austin,Stray,Normal,Cat,Intact Male,30,Domestic Cat Breed,Black,9,4,Neutered Male,150,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A698569,6,Outside Jurisdiction,Public Assist,Normal,Dog,Intact Female,447,Toy Breed,Bi color,6,3,Spayed Female,448,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A792261,4,Austin,Owner Surrender,Normal,Dog,Neutered Male,1461,Terrier Dog Breed,Bi color,4,4,Neutered Male,1462,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A743919,2,Austin,Stray,Normal,Dog,Intact Male,550,Retriever Dog Breed,Bi color,2,8,Intact Male,557,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A668240,11,Austin,Stray,Normal,Dog,Intact Female,361,Hound Dong Breed,Black,12,12,Spayed Female,366,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A760037,10,Austin,Stray,Normal,Dog,Intact Male,361,Working Dog Breed,Bi color,10,10,Intact Male,365,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A801642,8,Austin,Stray,Normal,Dog,Intact Male,122,Working Dog Breed,Bi color,8,4,Neutered Male,130,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A685960,8,Austin,Stray,Normal,Cat,Intact Male,2,Domestic Cat Breed,Bi color,8,8,Intact Male,6,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A698478,3,Travis,Stray,Normal,Dog,Intact Female,730,Toy Breed,Bi color,4,3,Spayed Female,770,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A724857,4,Austin,Public Assist,Normal,Dog,Intact Male,1462,Working Dog Breed,Bi color,5,4,Intact Male,1475,1.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A597143,7,Austin,Owner Surrender,Normal,Dog,Spayed Female,3652,Toy Breed,White,7,7,Spayed Female,3656,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A793328,4,Austin,Stray,Normal,Dog,Intact Female,730,Retriever Dog Breed,Bi color,10,4,Spayed Female,891,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A673723,3,Austin,Public Assist,Nursing,Other,Intact Female,120,Rabbit,Bi color,3,11,Intact Female,124,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A804000,10,Outside Jurisdiction,Owner Surrender,Normal,Dog,Neutered Male,1487,Terrier Dog Breed,Bi color,10,9,Neutered Male,1496,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A715444,11,Travis,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Bi color,11,11,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A800592,7,Austin,Owner Surrender,Normal,Dog,Spayed Female,1095,Working Dog Breed,Bi color,7,7,Spayed Female,1096,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A700106,4,Austin,Owner Surrender,Normal,Cat,Intact Male,365,Domestic Cat Breed,Pattern,4,4,Neutered Male,377,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A730489,7,Austin,Stray,Normal,Dog,Intact Female,731,Toy Breed,Red series,7,7,Intact Female,739,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A793630,4,Austin,Owner Surrender,Normal,Dog,Intact Male,72,Hound Dong Breed,Bi color,4,2,Neutered Male,74,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A747092,4,Austin,Stray,Normal,Cat,Unknown,15,Domestic Cat Breed,Black,4,3,Unknown,15,0.0,0.38314176245210724,Healthy,Unknown,Not Wild Mammals,0-1 days
+A765393,1,Austin,Public Assist,Normal,Dog,Intact Male,731,Herding Dog Breed,Pattern,1,1,Intact Male,731,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A765602,9,Austin,Stray,Normal,Dog,Intact Female,954,Working Dog Breed,Bi color,9,1,Intact Female,954,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A677585,4,Austin,Stray,Normal,Cat,Intact Female,6,Domestic Cat Breed,Pattern,4,4,Intact Female,6,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A785683,12,Austin,Owner Surrender,Normal,Other,Intact Female,365,Pig,Bi color,12,12,Intact Female,368,0.0,1.1363636363636365,Healthy,Intact,Not Wild Mammals,2-3 days
+A665411,10,Austin,Stray,Normal,Dog,Intact Male,2192,Terrier Dog Breed,Bi color,10,10,Intact Male,2192,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A741565,1,Austin,Wildlife,Normal,Other,Unknown,366,Bat,Brown series,1,1,Unknown,367,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A718813,1,Travis,Stray,Normal,Dog,Intact Male,730,Terrier Dog Breed,Bi color,2,1,Neutered Male,768,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A751209,6,Austin,Stray,Injured,Cat,Intact Female,92,Domestic Cat Breed,Pattern,6,3,Intact Female,92,0.0,0.38314176245210724,Unhealthy,Intact,Not Wild Mammals,0-1 days
+A712632,9,Austin,Stray,Normal,Cat,Intact Female,14,Domestic Cat Breed,Bi color,9,9,Intact Female,15,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A759143,9,Austin,Stray,Normal,Cat,Intact Female,27,Domestic Cat Breed,Pattern,10,8,Intact Female,36,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A666489,11,Austin,Stray,Injured,Cat,Intact Female,92,Domestic Cat Breed,Pattern,11,8,Intact Female,95,1.0,1.1363636363636365,Unhealthy,Intact,Not Wild Mammals,2-3 days
+A802850,8,Austin,Stray,Normal,Cat,Intact Female,730,Shorthair Cat Breed,Pattern,9,8,Spayed Female,740,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A784901,11,Austin,Public Assist,Normal,Cat,Spayed Female,4567,Domestic Cat Breed,Blue series,12,5,Spayed Female,4578,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A764613,1,Austin,Public Assist,Normal,Dog,Intact Male,739,Working Dog Breed,Brown series,1,1,Neutered Male,740,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A746628,4,Austin,Wildlife,Normal,Other,Unknown,365,Bat,Brown series,4,4,Unknown,366,1.0,0.38314176245210724,Healthy,Unknown,Wild Mammals,0-1 days
+A751610,6,Austin,Stray,Normal,Dog,Intact Female,151,Retriever Dog Breed,Red series,6,1,Spayed Female,159,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A690641,10,Austin,Owner Surrender,Normal,Cat,Spayed Female,68,Domestic Cat Breed,Pattern,11,8,Spayed Female,86,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A736891,10,Austin,Owner Surrender,Normal,Cat,Spayed Female,731,Domestic Cat Breed,Pattern,12,10,Spayed Female,786,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A697812,3,Austin,Owner Surrender,Normal,Cat,Spayed Female,2191,Domestic Cat Breed,Pattern,3,3,Spayed Female,2198,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A811117,12,Austin,Stray,Normal,Dog,Intact Male,275,Terrier Dog Breed,Pattern,1,3,Intact Male,281,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A784159,11,Austin,Stray,Normal,Dog,Intact Male,365,Retriever Dog Breed,Black,2,11,Neutered Male,452,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A635761,5,Austin,Public Assist,Normal,Dog,Neutered Male,993,Hound Dong Breed,Red series,5,8,Neutered Male,994,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A802627,8,Austin,Stray,Normal,Cat,Intact Female,21,Domestic Cat Breed,Black,11,7,Spayed Female,104,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A774247,6,Austin,Stray,Normal,Cat,Intact Female,21,Domestic Cat Breed,Bi color,7,5,Intact Female,64,0.0,0.15552099533437014,Healthy,Intact,Not Wild Mammals,more than 3 days
+A665174,10,Austin,Owner Surrender,Normal,Dog,Neutered Male,731,Terrier Dog Breed,Pattern,12,10,Neutered Male,780,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A665247,10,Travis,Wildlife,Sick,Other,Unknown,365,Mice predating small mammals,Bi color,10,10,Unknown,365,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A721439,2,Austin,Stray,Normal,Dog,Neutered Male,1094,Retriever Dog Breed,Bi color,2,2,Neutered Male,1095,0.0,0.38314176245210724,Healthy,Sterilized,Not Wild Mammals,0-1 days
+A761975,3,Austin,Stray,Normal,Dog,Spayed Female,2327,Terrier Dog Breed,Bi color,3,11,Spayed Female,2329,0.0,1.1363636363636365,Healthy,Sterilized,Not Wild Mammals,2-3 days
+A790180,3,Manor,Wildlife,Sick,Other,Unknown,730,Mice predating small mammals,Bi color,3,3,Unknown,730,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
+A685500,8,Austin,Stray,Normal,Cat,Intact Female,365,Domestic Cat Breed,Black,8,8,Intact Female,366,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A735730,9,Austin,Stray,Normal,Cat,Intact Female,92,Domestic Cat Breed,Pattern,10,6,Spayed Female,96,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A720995,2,Austin,Owner Surrender,Normal,Dog,Intact Female,365,Hound Dong Breed,Bi color,2,2,Spayed Female,373,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A711824,9,Austin,Stray,Normal,Cat,Intact Female,35,Domestic Cat Breed,Pattern,11,8,Spayed Female,112,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A751322,6,Austin,Stray,Normal,Other,Unknown,182,Pig,Bi color,6,12,Unknown,184,0.0,1.1363636363636365,Healthy,Unknown,Not Wild Mammals,2-3 days
+A757780,9,Austin,Stray,Normal,Dog,Intact Male,365,Working Dog Breed,Bi color,9,9,Neutered Male,375,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A721070,2,Austin,Owner Surrender,Normal,Cat,Neutered Male,612,Domestic Cat Breed,Pattern,2,6,Neutered Male,621,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A757532,9,Pflugerville,Stray,Normal,Cat,Neutered Male,1826,Shorthair Cat Breed,Pattern,9,9,Neutered Male,1847,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A785993,12,Manor,Stray,Normal,Dog,Intact Female,1096,Terrier Dog Breed,Bi color,12,12,Spayed Female,1100,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A744926,3,Austin,Owner Surrender,Normal,Dog,Intact Female,181,Retriever Dog Breed,Bi color,3,9,Spayed Female,186,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A769466,4,Del Valle,Owner Surrender,Normal,Cat,Spayed Female,424,Domestic Cat Breed,Black,4,2,Spayed Female,430,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A743627,2,Austin,Stray,Normal,Dog,Intact Female,366,Terrier Dog Breed,Bi color,2,2,Spayed Female,372,0.0,0.15552099533437014,Healthy,Sterilized,Not Wild Mammals,more than 3 days
+A794262,5,Austin,Stray,Sick,Cat,Spayed Female,2922,Domestic Cat Breed,Black,5,5,Spayed Female,2922,1.0,0.38314176245210724,Unhealthy,Sterilized,Not Wild Mammals,0-1 days
+A792853,4,Cedar Park,Stray,Normal,Cat,Unknown,7,Domestic Cat Breed,Pattern,4,4,Unknown,9,0.0,1.1363636363636365,Healthy,Unknown,Not Wild Mammals,2-3 days
+A741707,1,Austin,Stray,Normal,Cat,Intact Female,31,Domestic Cat Breed,Red series,1,12,Intact Female,32,0.0,0.38314176245210724,Healthy,Intact,Not Wild Mammals,0-1 days
+A763769,12,Austin,Wildlife,Injured,Bird,Unknown,365,Large bird,Brown series,12,12,Unknown,365,1.0,0.38314176245210724,Unhealthy,Unknown,Not Wild Mammals,0-1 days
